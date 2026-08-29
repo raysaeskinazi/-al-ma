@@ -1,0 +1,1891 @@
+Sample_ID,Mouse_ID,Group,Tissue,Gene,Ct_Value,Replicate,Experiment_Date,Undetermined
+S0972,Mouse47,KO,Spleen,Ifng,21.83,3,2026-04-18,False
+S1581,Mouse76,KO,Thymus,Ifng,21.57,3,2026-03-17,False
+S0466 ,Mouse23,KO,Spleen,Ifng,22.12,1,2026-04-29,False
+S0141,Mouse7,WT,Lymph Node,Cd8a,21.82,3,2026-10-04,False
+S1585,Mouse76,KO,Thymus,Cd4,19.61,1,2026-03-17,False
+S0109,Mouse6,HET,Thymus,Ifng,22.04,1,2026-03-22,False
+S1577,Mouse76,KO,Thymus,Il2,27.23,2,2026-03-17,False
+s0218,Mouse11,KO,Lymph Node,Foxp3,30.15,2,2026-04-17,False
+S0652,Mouse32,WT,Lymph Node,Il2,24.65,1,2026-05-03,False
+S0003,Mouse1,KO,Spleen,Il2,24.39,3,2026-03-15,False
+S1090,Mouse52,KO,Spleen,Gapdh,18.04,1,2026-04-17,False
+S1692,Mouse81,WT,Spleen,Cd4,18.63,3,2026-03-20,False
+S0579,Mouse28,KO,Spleen,Cd4,19.84,3,2026-03-28,False
+S0397 ,Mouse19,KO,Lymph Node,Gapdh,,1,2026-11-03,False
+S1628 ,Mouse78,WT,Spleen,Cd4,20.14,2,2026-04-21,False
+S0695,Mouse34,HET,Spleen,Il2,27.17,2,2026-04-08,False
+S0789 ,Mouse38,KO,Thymus,Cd4,19.89,3,2026-04-18,False
+S0345,Mouse17,WT,Spleen,Foxp3,30.26,3,2026-10-03,False
+S0587 ,Mouse28,KO,Spleen,Gapdh,18.25,2,2026-03-28,False
+S0922,Mouse44,KO,Spleen,Gapdh,17.36,1,2026-03-11,False
+S1649,Mouse79,WT,Thymus,Cd4,19.9,2,2026-03-23,False
+S1519,Mouse73,WT,Lymph Node,Foxp3,25.33,1,2026-04-14,False
+S1337,Mouse64,WT,Lymph Node,Cd8a,20.28,2,2026-04-07,False
+S1316,Mouse63,KO,Spleen,Cd8a,27.21,2,2026-04-12,False
+S1306,Mouse63,KO,Spleen,Ifng,21.82,1,2026-12-04,False
+S1098,Mouse53,WT,Thymus,Ifng,22.18,3,2026-03-30,False
+S_1354,Mouse65,WT,Spleen,Cd4,20.73,1,2026-03-14,False
+S1554,Mouse74,WT,Spleen,Gapdh,17.45,3,2026-04-27,False
+S0763,Mouse37,HET,Spleen,Foxp3,26.34,1,2026-03-03,False
+S0201,Mouse10,WT,Spleen,Cd4,20.31,3,2026-04-10,False
+S1442,Mouse69,WT,Lymph Node,Cd8a,20.44,2,2026-02-04,False
+S1646,Mouse79,WT,Thymus,Foxp3,26.21,2,2026-03-23,False
+S0359 ,Mouse18,KO,Spleen,Il2,23.74,2,2026-04-19,False
+S1445,Mouse69,WT,Lymph Node,Tnfa,23.16,2,2026-04-02,False
+S1551,Mouse74,WT,Spleen,Tnfa,22.93,3,2026-04-27,False
+S_1796,Mouse86,WT,Spleen,Cd4,19.63,2,2026-03-18,False
+s0528,Mouse26,WT,Lymph Node,Il2,23.52,3,2026-05-04,False
+S1181 ,Mouse57,WT,Thymus,Ifng,21.57,2,2026-04-13,False
+S1799,Mouse86,WT,Spleen,Cd8a,20.5,2,2026-03-18,False
+s1317,Mouse63,KO,Spleen,Cd8a,,3,2026-04-12,True
+S0505 ,Mouse25,KO,Thymus,Il2,27.1,1,2026-03-21,False
+S1501,Mouse72,KO,Thymus,Cd4,20.69,1,2026-03-28,False
+S1272,Mouse61,KO,Spleen,Cd4,19.55,3,2026-03-11,False
+S0364,Mouse18,KO,Spleen,Foxp3,26.59,1,2026-04-19,False
+S1187,Mouse57,WT,Thymus,Cd4,19.5,2,2026-04-13,False
+S0038,Mouse2,WT,Spleen,Tnfa,23.66,2,2026-04-02,False
+S1667,Mouse80,WT,Spleen,Foxp3,26.02,2,2026-03-24,False
+S0829,Mouse40,WT,Spleen,Cd4,19.63,1,2026-11-03,False
+S0507,Mouse25,KO,Thymus,Il2,27.04,3,2026-03-21,False
+S0749,Mouse36,KO,Spleen,Cd8a,21.42,2,2026-03-21,False
+S0780,Mouse38,KO,Thymus,Il2,27.19,3,2026-04-18,False
+S0871,Mouse42,KO,Thymus,Cd4,20.64,1,2026-04-12,False
+S_858,Mouse41,KO,Spleen,Tnfa,23.71,3,2026-03-27,False
+s1006,Mouse48,WT,Lymph Node,Gapdh,17.93,1,2026-04-05,False
+S1471,Mouse71,KO,Spleen,Il2,27.16,1,2026-03-09,False
+S_1286,Mouse62,HET,Lymph Node,Ifng,21.82,2,2026-03-04,False
+S1802,Mouse86,WT,Spleen,Tnfa,22.82,2,2026-03-18,False
+S1232,Mouse59,WT,Thymus,Cd8a,20.45,2,2026-03-24,False
+S0641,Mouse31,HET,Spleen,Cd4,20.12,2,2026-06-03,False
+S0376 ,Mouse18,KO,Spleen,Gapdh,19.1,1,2026-04-19,False
+S1669,Mouse80,WT,Spleen,Cd4,20.22,1,2026-03-24,False
+S1661 ,Mouse80,WT,Spleen,Il2,24.46,2,2026-03-24,False
+S0554,Mouse27,WT,Spleen,Foxp3,27.01,2,2026-04-14,False
+S0722,Mouse35,KO,Lymph Node,Foxp3,29.52,2,2026-03-30,False
+S0962,Mouse46,KO,Spleen,Tnfa,22.3,2,2026-03-21,False
+S_1330,Mouse64,WT,Lymph Node,Foxp3,25.52,1,2026-07-04,False
+S1464,Mouse70,HET,Lymph Node,Cd8a,21.56,3,2026-03-26,False
+S1763,Mouse84,KO,Spleen,Gapdh,17.74,2,2026-02-04,False
+S1422,Mouse68,HET,Thymus,Cd8a,20.95,3,2026-04-20,False
+S0883,Mouse43,WT,Spleen,Il2,24.11,1,2026-04-27,False
+S0285,Mouse14,HET,Thymus,Cd4,20.54,3,2026-03-31,False
+S1380,Mouse66,KO,Thymus,Cd8a,21.79,3,2026-04-01,False
+S1365,Mouse65,WT,Spleen,Gapdh,18.14,3,2026-03-14,False
+S1665,Mouse80,WT,Spleen,Ifng,21.94,3,2026-03-24,False
+s1322,Mouse63,KO,Spleen,Gapdh,17.81,2,2026-04-12,False
+S1275,Mouse61,KO,Spleen,Cd8a,21.02,3,2026-03-11,False
+S1864,Mouse89,WT,Spleen,Tnfa,23.0,1,2026-03-28,False
+S0705,Mouse34,HET,Spleen,Cd4,,3,2026-08-04,True
+S0931,Mouse45,KO,Thymus,Foxp3,29.45,1,2026-03-15,False
+S0393,Mouse19,KO,Lymph Node,Cd8a,21.43,3,2026-11-03,False
+S0759,Mouse37,HET,Spleen,Il2,24.11,3,2026-03-03,False
+S_1183,Mouse57,WT,Thymus,Foxp3,25.82,1,2026-04-13,False
+S0378,Mouse18,KO,Spleen,Gapdh,17.72,3,2026-04-19,False
+S0454 ,Mouse22,WT,Spleen,Cd8a,19.62,1,2026-03-03,False
+s1230,Mouse59,WT,Thymus,Cd4,20.05,3,2026-03-24,False
+S1372,Mouse66,KO,Thymus,Foxp3,30.19,1,2026-04-01,False
+S0288,Mouse14,HET,Thymus,Cd8a,21.38,3,2026-03-31,False
+S0300,Mouse15,WT,Thymus,Ifng,22.66,3,2026-03-03,False
+S1683,Mouse81,WT,Spleen,Il2,24.43,3,2026-03-20,False
+S_1480,Mouse71,KO,Spleen,Cd4,19.67,1,2026-03-09,False
+S_59,Mouse3,HET,Thymus,Tnfa,29.52,2,2026-03-04,False
+S0817,Mouse39,KO,Spleen,Gapdh,,1,2026-04-25,True
+s0650,Mouse31,HET,Spleen,Gapdh,18.9,2,2026-06-03,False
+S0205,Mouse10,WT,Spleen,Tnfa,23.57,1,2026-10-04,False
+S1262,Mouse61,KO,Spleen,Il2,28.0,2,2026-03-11,False
+S0111,Mouse6,HET,Thymus,Ifng,21.88,3,2026-03-22,False
+S0128,Mouse7,WT,Lymph Node,Il2,23.78,2,2026-04-10,False
+S1760 ,Mouse84,KO,Spleen,Tnfa,22.21,2,2026-04-02,False
+s1305,Mouse63,KO,Spleen,Il2,27.13,3,2026-04-12,False
+S0299,Mouse15,WT,Thymus,Ifng,21.87,2,2026-03-03,False
+S1034,Mouse50,HET,Thymus,Ifng,20.96,2,2026-03-15,False
+S0502 ,Mouse24,WT,Thymus,Gapdh,18.45,1,2026-04-29,False
+S0870,Mouse42,KO,Thymus,Foxp3,26.3,3,2026-04-12,False
+s0493,Mouse24,WT,Thymus,Cd4,20.16,1,2026-04-29,False
+S1378,Mouse66,KO,Thymus,Cd8a,21.53,1,2026-01-04,False
+S0770,Mouse37,HET,Spleen,Cd8a,21.12,2,2026-03-03,False
+S0052,Mouse3,HET,Thymus,Cd4,20.53,1,2026-04-03,False
+S1455,Mouse70,HET,Lymph Node,Ifng,21.93,3,2026-03-26,False
+S1853,Mouse89,WT,Spleen,Ifng,22.58,2,2026-03-28,False
+S1299,Mouse62,HET,Lymph Node,Tnfa,23.92,3,2026-04-03,False
+S0572 ,Mouse28,KO,Spleen,Ifng,21.49,2,2026-03-28,False
+S1644,Mouse79,WT,Thymus,Ifng,22.18,3,2026-03-23,False
+S1174,Mouse56,WT,Thymus,Gapdh,18.02,1,2026-04-04,False
+S1459,Mouse70,HET,Lymph Node,Cd4,20.43,1,2026-03-26,False
+S0186,Mouse9,KO,Spleen,Tnfa,,3,2026-04-18,True
+S0008,Mouse1,KO,Spleen,Foxp3,26.46,2,2026-03-15,False
+S1697,Mouse81,WT,Spleen,Tnfa,22.89,2,2026-03-20,False
+S_1562,Mouse75,HET,Spleen,Foxp3,25.81,2,2026-03-10,False
+S0230,Mouse11,KO,Lymph Node,Gapdh,18.11,2,2026-04-17,False
+S1253 ,Mouse60,HET,Thymus,Cd8a,20.53,2,2026-01-03,False
+S1038,Mouse50,HET,Thymus,Foxp3,25.25,3,2026-03-15,False
+S0859,Mouse41,KO,Spleen,Gapdh,19.52,1,2026-03-27,False
+S0719,Mouse35,KO,Lymph Node,Ifng,20.9,2,2026-03-30,False
+S1596,Mouse76,KO,Thymus,Gapdh,17.95,3,2026-03-17,False
+S1216,Mouse58,HET,Thymus,Gapdh,17.54,1,2026-04-19,False
+S1309,Mouse63,KO,Spleen,Foxp3,29.6,1,2026-04-12,False
+S0526,Mouse26,WT,Lymph Node,Il2,24.86,1,2026-05-04,False
+s0919,Mouse44,KO,Spleen,Tnfa,23.39,1,2026-03-11,False
+S1814,Mouse87,HET,Spleen,Foxp3,26.38,2,2026-03-15,False
+S0451,Mouse22,WT,Spleen,Cd4,19.68,1,2026-03-03,False
+S0721,Mouse35,KO,Lymph Node,Foxp3,29.13,1,2026-03-30,False
+S1172,Mouse56,WT,Thymus,Tnfa,23.33,2,2026-04-04,False
+S0472,Mouse23,KO,Spleen,Cd4,20.53,1,2026-04-29,False
+S1831,Mouse88,KO,Thymus,Ifng,21.84,1,2026-04-01,False
+S0340,Mouse17,WT,Spleen,Ifng,22.94,1,2026-10-03,False
+S_566,Mouse27,WT,Spleen,Gapdh,19.36,2,2026-04-14,False
+S1749,Mouse84,KO,Spleen,Ifng,21.85,3,2026-04-02,False
+S0766 ,Mouse37,HET,Spleen,Cd4,20.28,1,2026-03-03,False
+S1594,Mouse76,KO,Thymus,Gapdh,17.06,1,2026-03-17,False
+S0515,Mouse25,KO,Thymus,Cd4,19.96,2,2026-03-21,False
+S1599,Mouse77,KO,Lymph Node,Il2,27.68,3,2026-03-14,False
+S1057,Mouse51,HET,Spleen,Foxp3,25.82,1,2026-04-29,False
+S0456,Mouse22,WT,Spleen,Cd8a,21.82,3,2026-03-03,False
+S1079,Mouse52,KO,Spleen,Foxp3,29.67,2,2026-04-17,False
+S0142,Mouse7,WT,Lymph Node,Tnfa,,1,2026-10-04,True
+S1157,Mouse56,WT,Thymus,Il2,23.92,2,2026-04-04,False
+S1199,Mouse58,HET,Thymus,Il2,23.67,2,2026-04-19,False
+S_1734,Mouse83,KO,Thymus,Cd4,20.6,3,2026-03-23,False
+S1068,Mouse51,HET,Spleen,Tnfa,23.01,3,2026-04-29,False
+S0798,Mouse38,KO,Thymus,Gapdh,18.64,3,2026-04-18,False
+S0702,Mouse34,HET,Spleen,Foxp3,29.47,3,2026-08-04,False
+S0207,Mouse10,WT,Spleen,Tnfa,22.81,3,2026-10-04,False
+S1274,Mouse61,KO,Spleen,Cd8a,20.46,2,2026-11-03,False
+S0309,Mouse15,WT,Thymus,Cd8a,21.06,3,2026-03-03,False
+S0675,Mouse33,HET,Spleen,Il2,23.35,3,2026-03-17,False
+S1800,Mouse86,WT,Spleen,Cd8a,19.67,3,2026-03-18,False
+S1737,Mouse83,KO,Thymus,Cd8a,20.61,3,2026-03-23,False
+S0726,Mouse35,KO,Lymph Node,Cd4,19.55,3,2026-03-30,False
+S1786,Mouse86,WT,Spleen,Il2,23.61,1,2026-03-18,False
+S1819,Mouse87,HET,Spleen,Cd8a,22.61,1,2026-03-15,False
+S1844,Mouse88,KO,Thymus,Tnfa,22.87,2,2026-01-04,False
+S1528,Mouse73,WT,Lymph Node,Tnfa,22.34,1,2026-04-14,False
+S0936,Mouse45,KO,Thymus,Cd4,20.27,3,2026-03-15,False
+S0453,Mouse22,WT,Spleen,Cd4,19.83,3,2026-03-03,False
+S_1105,Mouse53,WT,Thymus,Cd8a,19.99,1,2026-03-30,False
+S1059,Mouse51,HET,Spleen,Foxp3,25.8,3,2026-04-29,False
+s0072,Mouse4,HET,Lymph Node,Foxp3,26.49,3,2026-04-02,False
+S1825,Mouse87,HET,Spleen,Gapdh,18.28,1,2026-03-15,False
+S0173,Mouse9,KO,Spleen,Ifng,21.16,2,2026-04-18,False
+S0368,Mouse18,KO,Spleen,Cd4,19.19,2,2026-04-19,False
+S0857,Mouse41,KO,Spleen,Tnfa,22.99,2,2026-03-27,False
+S1651,Mouse79,WT,Thymus,Cd8a,,1,2026-03-23,True
+S1257 ,Mouse60,HET,Thymus,Tnfa,,3,2026-01-03,False
+S0673,Mouse33,HET,Spleen,Il2,23.78,1,2026-03-17,False
+S1139,Mouse55,KO,Spleen,Ifng,22.41,2,2026-03-29,False
+s1247,Mouse60,HET,Thymus,Foxp3,26.12,2,2026-03-01,False
+S0758,Mouse37,HET,Spleen,Il2,,2,2026-03-03,True
+S1270,Mouse61,KO,Spleen,Cd4,20.6,1,2026-03-11,False
+S1409,Mouse68,HET,Thymus,Il2,24.18,2,2026-04-20,False
+s0778,Mouse38,KO,Thymus,Il2,27.52,1,2026-04-18,False
+S_325,Mouse16,HET,Spleen,Cd4,19.5,1,2026-04-05,False
+s1390,Mouse67,KO,Lymph Node,Ifng,23.08,1,2026-06-04,False
+S0117,Mouse6,HET,Thymus,Cd4,20.47,3,2026-03-22,False
+S_1321,Mouse63,KO,Spleen,Gapdh,18.72,1,2026-04-12,False
+s1587,Mouse76,KO,Thymus,Cd4,19.71,3,2026-03-17,False
+S1677,Mouse80,WT,Spleen,Tnfa,23.83,3,2026-03-24,False
+S0373,Mouse18,KO,Spleen,Tnfa,29.16,1,2026-04-19,False
+S1756,Mouse84,KO,Spleen,Cd8a,22.02,1,2026-04-02,False
+S0005,Mouse1,KO,Spleen,Ifng,21.86,2,2026-03-15,False
+S1224,Mouse59,WT,Thymus,Ifng,21.27,3,2026-03-24,False
+S0508,Mouse25,KO,Thymus,Ifng,20.92,1,2026-03-21,False
+S0047 ,Mouse3,HET,Thymus,Ifng,21.19,2,2026-03-04,False
+s0739,Mouse36,KO,Spleen,Ifng,21.65,1,2026-03-21,False
+S1798,Mouse86,WT,Spleen,Cd8a,21.21,1,2026-03-18,False
+S1823,Mouse87,HET,Spleen,Tnfa,23.51,2,2026-03-15,False
+S0238 ,Mouse12,WT,Thymus,Foxp3,25.81,1,2026-04-03,False
+S0021,Mouse1,KO,Spleen,Gapdh,17.62,3,2026-03-15,False
+S0411 ,Mouse20,WT,Spleen,Cd4,20.64,3,2026-03-15,False
+S1731,Mouse83,KO,Thymus,Foxp3,38.81,3,2026-03-23,False
+S0834,Mouse40,WT,Spleen,Cd8a,20.66,3,2026-03-11,False
+S0631 ,Mouse31,HET,Spleen,Il2,23.86,1,2026-03-06,False
+S_856,Mouse41,KO,Spleen,Tnfa,23.13,1,2026-03-27,False
+S_195,Mouse10,WT,Spleen,Ifng,22.65,3,2026-04-10,False
+S1553,Mouse74,WT,Spleen,Gapdh,18.53,2,2026-04-27,False
+S1267,Mouse61,KO,Spleen,Foxp3,29.66,1,2026-03-11,False
+S1428,Mouse68,HET,Thymus,Gapdh,18.43,3,2026-04-20,False
+S1632,Mouse78,WT,Spleen,Cd8a,20.97,3,2026-04-21,False
+S1051,Mouse51,HET,Spleen,Il2,,1,2026-04-29,True
+S0103,Mouse5,KO,Lymph Node,Gapdh,19.13,1,2026-09-04,False
+S1868,Mouse89,WT,Spleen,Gapdh,17.78,2,2026-03-28,False
+S0263,Mouse13,WT,Thymus,Cd4,26.06,2,2026-03-06,False
+S0387,Mouse19,KO,Lymph Node,Foxp3,29.23,3,2026-03-11,False
+S1767,Mouse85,KO,Thymus,Il2,26.6,3,2026-04-03,False
+S0921,Mouse44,KO,Spleen,Tnfa,24.11,3,2026-11-03,False
+S1700,Mouse81,WT,Spleen,Gapdh,18.25,2,2026-03-20,False
+S0180,Mouse9,KO,Spleen,Cd4,20.44,3,2026-04-18,False
+S0604,Mouse29,WT,Spleen,Tnfa,23.28,1,2026-04-28,False
+S0314 ,Mouse15,WT,Thymus,Gapdh,17.27,2,2026-03-03,False
+S1703,Mouse82,KO,Thymus,Il2,27.62,2,2026-03-16,False
+S1860,Mouse89,WT,Spleen,Cd4,20.25,3,2026-03-28,False
+S1682,Mouse81,WT,Spleen,Il2,23.21,2,2026-03-20,False
+S1880,Mouse90,KO,Thymus,Cd4,19.32,2,2026-03-05,False
+S0464,Mouse23,KO,Spleen,Il2,23.43,2,2026-04-29,False
+S0371,Mouse18,KO,Spleen,Cd8a,19.85,2,2026-04-19,False
+S0331 ,Mouse16,HET,Spleen,Tnfa,22.74,1,2026-05-04,False
+S1114,Mouse54,KO,Thymus,Il2,26.88,1,2026-04-28,False
+S0110,Mouse6,HET,Thymus,Ifng,23.48,2,2026-03-22,False
+S1866,Mouse89,WT,Spleen,Tnfa,22.93,3,2026-03-28,False
+S0864,Mouse42,KO,Thymus,Il2,25.11,3,2026-12-04,False
+S0993,Mouse48,WT,Lymph Node,Ifng,21.38,3,2026-05-04,False
+S1502,Mouse72,KO,Thymus,Cd4,19.82,2,2026-03-28,False
+S0329,Mouse16,HET,Spleen,Cd8a,25.93,2,2026-05-04,False
+S1555,Mouse75,HET,Spleen,Il2,23.33,1,2026-03-10,False
+S0595,Mouse29,WT,Spleen,Foxp3,29.67,1,2026-04-28,False
+S1189,Mouse57,WT,Thymus,Cd8a,20.29,1,2026-04-13,False
+S1829,Mouse88,KO,Thymus,Il2,23.43,2,2026-04-01,False
+S0096,Mouse5,KO,Lymph Node,Cd4,19.86,3,2026-04-09,False
+S0362,Mouse18,KO,Spleen,Ifng,23.09,2,2026-04-19,False
+S1715,Mouse82,KO,Thymus,Cd8a,20.04,2,2026-03-16,False
+S1125,Mouse54,KO,Thymus,Cd4,20.65,3,2026-04-28,False
+S0475,Mouse23,KO,Spleen,Cd8a,21.05,1,2026-04-29,False
+S0147,Mouse7,WT,Lymph Node,Gapdh,18.78,3,2026-10-04,False
+S1263,Mouse61,KO,Spleen,Il2,27.55,3,2026-11-03,False
+S0279,Mouse14,HET,Thymus,Ifng,21.88,3,2026-03-31,False
+S1563,Mouse75,HET,Spleen,Foxp3,25.74,3,2026-03-10,False
+S1397,Mouse67,KO,Lymph Node,Cd4,19.64,2,2026-06-04,False
+S0432,Mouse21,WT,Thymus,Cd4,19.36,3,2026-03-10,False
+S0957,Mouse46,KO,Spleen,Cd4,20.47,3,2026-03-21,False
+S0545,Mouse26,WT,Lymph Node,Gapdh,18.52,2,2026-04-05,False
+S1822,Mouse87,HET,Spleen,Tnfa,23.44,1,2026-03-15,False
+S1063,Mouse51,HET,Spleen,Cd8a,20.92,1,2026-04-29,False
+S0416,Mouse20,WT,Spleen,Tnfa,23.43,2,2026-03-15,False
+S0398,Mouse19,KO,Lymph Node,Gapdh,17.55,2,2026-11-03,False
+S0242 ,Mouse12,WT,Thymus,Cd4,20.76,2,2026-04-03,False
+S0559,Mouse27,WT,Spleen,Cd8a,21.14,1,2026-04-14,False
+S1188,Mouse57,WT,Thymus,Cd4,21.29,3,2026-04-13,False
+S1089,Mouse52,KO,Spleen,Tnfa,22.73,3,2026-04-17,False
+S1151,Mouse55,KO,Spleen,Tnfa,21.85,2,2026-03-29,False
+S0424,Mouse21,WT,Thymus,Ifng,21.0,1,2026-03-10,False
+S0958,Mouse46,KO,Spleen,Cd8a,21.26,1,2026-03-21,False
+s0620,Mouse30,HET,Spleen,Cd4,20.04,2,2026-03-10,False
+S0112,Mouse6,HET,Thymus,Foxp3,26.18,1,2026-03-22,False
+S0703,Mouse34,HET,Spleen,Cd4,28.35,1,2026-04-08,False
+S0747,Mouse36,KO,Spleen,Cd4,19.62,3,2026-03-21,False
+S0889,Mouse43,WT,Spleen,Foxp3,,1,2026-04-27,True
+S0352,Mouse17,WT,Spleen,Tnfa,23.27,1,2026-03-10,False
+S0838,Mouse40,WT,Spleen,Gapdh,18.38,1,2026-11-03,False
+S0557,Mouse27,WT,Spleen,Cd4,20.5,2,2026-04-14,False
+s1805,Mouse86,WT,Spleen,Gapdh,18.31,2,2026-03-18,False
+S0354,Mouse17,WT,Spleen,Tnfa,23.59,3,2026-10-03,False
+S1009,Mouse49,HET,Thymus,Il2,22.88,1,2026-04-17,False
+S1035,Mouse50,HET,Thymus,Ifng,31.63,3,2026-03-15,False
+S0420,Mouse20,WT,Spleen,Gapdh,18.2,3,2026-03-15,False
+S0439,Mouse21,WT,Thymus,Gapdh,17.94,1,2026-10-03,False
+S0442,Mouse22,WT,Spleen,Il2,23.28,1,2026-03-03,False
+S0876,Mouse42,KO,Thymus,Cd8a,21.09,3,2026-04-12,False
+S0448,Mouse22,WT,Spleen,Foxp3,25.87,1,2026-03-03,False
+S0264,Mouse13,WT,Thymus,Cd4,20.55,3,2026-03-06,False
+S0102,Mouse5,KO,Lymph Node,Tnfa,23.24,3,2026-09-04,False
+S0276,Mouse14,HET,Thymus,Il2,24.35,3,2026-03-31,False
+S1207,Mouse58,HET,Thymus,Cd4,20.34,1,2026-04-19,False
+S0250,Mouse12,WT,Thymus,Gapdh,19.12,1,2026-04-03,False
+S0738,Mouse36,KO,Spleen,Il2,27.92,3,2026-03-21,False
+S1287,Mouse62,HET,Lymph Node,Ifng,21.63,3,2026-03-04,False
+S1201,Mouse58,HET,Thymus,Ifng,21.95,1,2026-04-19,False
+S0748,Mouse36,KO,Spleen,Cd8a,22.09,1,2026-03-21,False
+S0928,Mouse45,KO,Thymus,Ifng,22.21,1,2026-03-15,False
+S1346,Mouse65,WT,Spleen,Il2,24.12,2,2026-03-14,False
+S0342,Mouse17,WT,Spleen,Ifng,22.0,3,2026-03-10,False
+S0061,Mouse3,HET,Thymus,Gapdh,18.49,1,2026-03-04,False
+S1650,Mouse79,WT,Thymus,Cd4,20.78,3,2026-03-23,False
+S0591,Mouse29,WT,Spleen,Il2,,3,2026-04-28,False
+S0282,Mouse14,HET,Thymus,Foxp3,26.51,3,2026-03-31,False
+S1352,Mouse65,WT,Spleen,Foxp3,26.55,2,2026-03-14,False
+S1610,Mouse77,KO,Lymph Node,Cd8a,21.77,2,2026-03-14,False
+S0692,Mouse33,HET,Spleen,Gapdh,19.02,2,2026-03-17,False
+S1369,Mouse66,KO,Thymus,Ifng,21.41,1,2026-04-01,False
+S0877,Mouse42,KO,Thymus,Tnfa,23.72,1,2026-04-12,False
+S1288,Mouse62,HET,Lymph Node,Foxp3,25.89,1,2026-04-03,False
+s0624,Mouse30,HET,Spleen,Cd8a,22.0,3,2026-10-03,False
+S1811,Mouse87,HET,Spleen,Ifng,22.12,2,2026-03-15,False
+S_1611,Mouse77,KO,Lymph Node,Cd8a,26.83,3,2026-03-14,False
+S0029,Mouse2,WT,Spleen,Foxp3,26.17,2,2026-04-02,False
+S0796,Mouse38,KO,Thymus,Gapdh,18.53,1,2026-04-18,False
+S1696,Mouse81,WT,Spleen,Tnfa,22.96,1,2026-03-20,False
+S0225,Mouse11,KO,Lymph Node,Cd8a,22.43,3,2026-04-17,False
+S1122,Mouse54,KO,Thymus,Foxp3,29.14,3,2026-04-28,False
+S_743,Mouse36,KO,Spleen,Foxp3,30.19,2,2026-03-21,False
+S_899,Mouse43,WT,Spleen,Tnfa,23.64,2,2026-04-27,False
+S0547,Mouse27,WT,Spleen,Il2,24.72,1,2026-04-14,False
+S1565,Mouse75,HET,Spleen,Cd4,20.38,2,2026-03-10,False
+S0390,Mouse19,KO,Lymph Node,Cd4,19.91,3,2026-11-03,False
+S0480,Mouse23,KO,Spleen,Tnfa,22.89,3,2026-04-29,False
+S1477,Mouse71,KO,Spleen,Foxp3,30.11,1,2026-09-03,False
+S0471,Mouse23,KO,Spleen,Foxp3,,3,2026-04-29,True
+s1318,Mouse63,KO,Spleen,Tnfa,23.59,1,2026-04-12,False
+S0099,Mouse5,KO,Lymph Node,Cd8a,20.79,3,2026-09-04,False
+S0413 ,Mouse20,WT,Spleen,Cd8a,20.29,2,2026-03-15,False
+S0906,Mouse44,KO,Spleen,Il2,24.23,3,2026-03-11,False
+S0717,Mouse35,KO,Lymph Node,Il2,26.9,3,2026-03-30,False
+S1404,Mouse67,KO,Lymph Node,Tnfa,22.8,3,2026-04-06,False
+S0013,Mouse1,KO,Spleen,Cd8a,19.43,1,2026-03-15,False
+s0341,Mouse17,WT,Spleen,Ifng,21.82,2,2026-03-10,False
+S1328,Mouse64,WT,Lymph Node,Ifng,21.99,2,2026-07-04,False
+S0168 ,Mouse8,WT,Thymus,Gapdh,17.86,3,2026-04-08,False
+S1023,Mouse49,HET,Thymus,Cd8a,21.24,3,2026-04-17,False
+S1516,Mouse73,WT,Lymph Node,Ifng,22.24,1,2026-04-14,False
+S0189,Mouse9,KO,Spleen,Gapdh,17.47,3,2026-04-18,False
+S1420,Mouse68,HET,Thymus,Cd8a,21.02,1,2026-04-20,False
+S0044 ,Mouse3,HET,Thymus,Il2,23.05,2,2026-04-03,False
+S1050,Mouse50,HET,Thymus,Gapdh,18.31,3,2026-03-15,False
+s0010,Mouse1,KO,Spleen,Cd4,20.33,1,2026-03-15,False
+S1359 ,Mouse65,WT,Spleen,Cd8a,20.29,3,2026-03-14,False
+S0148,Mouse8,WT,Thymus,Il2,23.48,1,2026-08-04,False
+S1735,Mouse83,KO,Thymus,Cd8a,19.38,1,2026-03-23,False
+S0014,Mouse1,KO,Spleen,Cd8a,21.57,2,2026-03-15,False
+S1583,Mouse76,KO,Thymus,Foxp3,37.63,2,2026-03-17,False
+S0431,Mouse21,WT,Thymus,Cd4,19.69,2,2026-03-10,False
+s0872,Mouse42,KO,Thymus,Cd4,20.7,2,2026-04-12,False
+S1173,Mouse56,WT,Thymus,Tnfa,23.03,3,2026-04-04,False
+S0863,Mouse42,KO,Thymus,Il2,24.41,2,2026-04-12,False
+S0869,Mouse42,KO,Thymus,Foxp3,26.49,2,2026-12-04,False
+S0351,Mouse17,WT,Spleen,Cd8a,20.79,3,2026-10-03,False
+S1851,Mouse89,WT,Spleen,Il2,22.99,3,2026-03-28,False
+S0701,Mouse34,HET,Spleen,Foxp3,29.28,2,2026-04-08,False
+S1159,Mouse56,WT,Thymus,Ifng,21.42,1,2026-04-04,False
+S1785,Mouse85,KO,Thymus,Gapdh,,3,2026-03-04,True
+S0644,Mouse31,HET,Spleen,Cd8a,20.67,2,2026-06-03,False
+S1606,Mouse77,KO,Lymph Node,Cd4,19.6,1,2026-03-14,False
+S0375,Mouse18,KO,Spleen,Tnfa,22.21,3,2026-04-19,False
+s1774,Mouse85,KO,Thymus,Cd4,21.64,1,2026-03-04,False
+S1107,Mouse53,WT,Thymus,Cd8a,21.63,3,2026-03-30,False
+S0427,Mouse21,WT,Thymus,Foxp3,25.22,1,2026-03-10,False
+S1862 ,Mouse89,WT,Spleen,Cd8a,20.99,2,2026-03-28,False
+S1158,Mouse56,WT,Thymus,Il2,23.9,3,2026-04-04,False
+S1387,Mouse67,KO,Lymph Node,Il2,27.15,1,2026-06-04,False
+S1124 ,Mouse54,KO,Thymus,Cd4,19.58,2,2026-04-28,False
+S0116,Mouse6,HET,Thymus,Cd4,20.45,2,2026-03-22,False
+S0025,Mouse2,WT,Spleen,Ifng,22.07,1,2026-02-04,False
+S0529,Mouse26,WT,Lymph Node,Ifng,22.35,1,2026-04-05,False
+S0097,Mouse5,KO,Lymph Node,Cd8a,20.15,1,2026-04-09,False
+S0888,Mouse43,WT,Spleen,Ifng,23.3,3,2026-04-27,False
+S_955,Mouse46,KO,Spleen,Cd4,19.05,1,2026-03-21,False
+S1377,Mouse66,KO,Thymus,Cd4,19.53,3,2026-04-01,False
+S0100,Mouse5,KO,Lymph Node,Tnfa,22.52,1,2026-04-09,False
+S1607,Mouse77,KO,Lymph Node,Cd4,21.12,2,2026-03-14,False
+S1626,Mouse78,WT,Spleen,Foxp3,29.62,3,2026-04-21,False
+S0358,Mouse18,KO,Spleen,Il2,24.24,1,2026-04-19,False
+s1430,Mouse69,WT,Lymph Node,Il2,24.65,2,2026-04-02,False
+S1489,Mouse71,KO,Spleen,Gapdh,,1,2026-09-03,False
+S1824,Mouse87,HET,Spleen,Tnfa,23.77,3,2026-03-15,False
+S0801,Mouse39,KO,Spleen,Il2,25.38,3,2026-04-25,False
+S0518,Mouse25,KO,Thymus,Cd8a,,2,2026-03-21,True
+S1701,Mouse81,WT,Spleen,Gapdh,17.74,3,2026-03-20,False
+S0612 ,Mouse30,HET,Spleen,Il2,24.66,3,2026-03-10,False
+s0271,Mouse13,WT,Thymus,Gapdh,18.95,1,2026-03-06,False
+S0952,Mouse46,KO,Spleen,Foxp3,,1,2026-03-21,True
+S0118,Mouse6,HET,Thymus,Cd8a,20.45,1,2026-03-22,False
+S_1877,Mouse90,KO,Thymus,Foxp3,29.44,2,2026-03-05,False
+S1768,Mouse85,KO,Thymus,Ifng,22.46,1,2026-03-04,False
+S1758,Mouse84,KO,Spleen,Cd8a,21.12,3,2026-02-04,False
+S0165,Mouse8,WT,Thymus,Tnfa,22.18,3,2026-08-04,False
+S0807,Mouse39,KO,Spleen,Foxp3,25.75,3,2026-04-25,False
+S1838,Mouse88,KO,Thymus,Cd4,28.71,2,2026-04-01,False
+S0489,Mouse24,WT,Thymus,Ifng,21.64,3,2026-04-29,False
+S0682,Mouse33,HET,Spleen,Cd4,19.89,1,2026-03-17,False
+S0114,Mouse6,HET,Thymus,Foxp3,25.3,3,2026-03-22,False
+S_379,Mouse19,KO,Lymph Node,Il2,26.47,1,2026-03-11,False
+S0064 ,Mouse4,HET,Lymph Node,Il2,24.6,1,2026-02-04,False
+S1168 ,Mouse56,WT,Thymus,Cd8a,21.82,1,2026-04-04,False
+s0944,Mouse45,KO,Thymus,Gapdh,19.08,2,2026-03-15,False
+S0187 ,Mouse9,KO,Spleen,Gapdh,26.91,1,2026-04-18,False
+S1121 ,Mouse54,KO,Thymus,Foxp3,28.72,2,2026-04-28,False
+S0873,Mouse42,KO,Thymus,Cd4,,3,2026-12-04,True
+S1179,Mouse57,WT,Thymus,Il2,23.25,3,2026-04-13,False
+S0295,Mouse15,WT,Thymus,Il2,24.77,1,2026-03-03,False
+S0455,Mouse22,WT,Spleen,Cd8a,20.09,2,2026-03-03,False
+S0287,Mouse14,HET,Thymus,Cd8a,21.49,2,2026-03-31,False
+S1775,Mouse85,KO,Thymus,Cd4,20.23,2,2026-04-03,False
+S0501,Mouse24,WT,Thymus,Tnfa,23.06,3,2026-04-29,False
+S0301,Mouse15,WT,Thymus,Foxp3,26.5,1,2026-03-03,False
+S1190,Mouse57,WT,Thymus,Cd8a,21.19,2,2026-04-13,False
+S0316,Mouse16,HET,Spleen,Il2,24.47,1,2026-05-04,False
+S1396,Mouse67,KO,Lymph Node,Cd4,19.87,1,2026-06-04,False
+S0741,Mouse36,KO,Spleen,Ifng,,3,2026-03-21,True
+S0360 ,Mouse18,KO,Spleen,Il2,25.12,3,2026-04-19,False
+S0131,Mouse7,WT,Lymph Node,Ifng,22.32,2,2026-04-10,False
+s0733,Mouse35,KO,Lymph Node,Gapdh,17.43,1,2026-03-30,False
+S0190,Mouse10,WT,Spleen,Il2,24.09,1,2026-04-10,False
+S0028,Mouse2,WT,Spleen,Foxp3,26.57,1,2026-02-04,False
+S0664,Mouse32,WT,Lymph Node,Cd8a,20.32,1,2026-03-05,False
+S_1713,Mouse82,KO,Thymus,Cd4,18.87,3,2026-03-16,False
+S0984,Mouse47,KO,Spleen,Tnfa,23.38,3,2026-04-18,False
+S0661,Mouse32,WT,Lymph Node,Cd4,20.56,1,2026-05-03,False
+S1167 ,Mouse56,WT,Thymus,Cd4,,3,2026-04-04,True
+S0685,Mouse33,HET,Spleen,Cd8a,20.58,1,2026-03-17,False
+S1085 ,Mouse52,KO,Spleen,Cd8a,20.98,2,2026-04-17,False
+S0670,Mouse32,WT,Lymph Node,Gapdh,17.78,1,2026-03-05,False
+S1710,Mouse82,KO,Thymus,Foxp3,29.11,3,2026-03-16,False
+S1045,Mouse50,HET,Thymus,Tnfa,22.84,1,2026-03-15,False
+s1841,Mouse88,KO,Thymus,Cd8a,20.35,2,2026-04-01,False
+S_1017,Mouse49,HET,Thymus,Foxp3,,3,2026-04-17,True
+S1468,Mouse70,HET,Lymph Node,Gapdh,18.76,1,2026-03-26,False
+S0639,Mouse31,HET,Spleen,Foxp3,26.01,3,2026-06-03,False
+S0267 ,Mouse13,WT,Thymus,Cd8a,21.04,3,2026-03-06,False
+S0861,Mouse41,KO,Spleen,Gapdh,17.71,3,2026-03-27,False
+S1707,Mouse82,KO,Thymus,Ifng,22.4,3,2026-03-16,False
+S0326,Mouse16,HET,Spleen,Cd4,19.81,2,2026-04-05,False
+S1219,Mouse59,WT,Thymus,Il2,24.2,1,2026-03-24,False
+S0732 ,Mouse35,KO,Lymph Node,Tnfa,23.63,3,2026-03-30,False
+S0573,Mouse28,KO,Spleen,Ifng,22.04,3,2026-03-28,False
+S1426,Mouse68,HET,Thymus,Gapdh,17.1,1,2026-04-20,False
+S1629,Mouse78,WT,Spleen,Cd4,20.31,3,2026-04-21,False
+S1538,Mouse74,WT,Spleen,Ifng,21.45,2,2026-04-27,False
+S1135,Mouse55,KO,Spleen,Il2,24.87,1,2026-03-29,False
+S1370,Mouse66,KO,Thymus,Ifng,21.2,2,2026-04-01,False
+S0018,Mouse1,KO,Spleen,Tnfa,22.55,3,2026-03-15,False
+S0594,Mouse29,WT,Spleen,Ifng,21.97,3,2026-04-28,False
+s0541,Mouse26,WT,Lymph Node,Tnfa,23.24,1,2026-05-04,False
+S1204,Mouse58,HET,Thymus,Foxp3,26.98,1,2026-04-19,False
+S1280,Mouse61,KO,Spleen,Gapdh,18.49,2,2026-11-03,False
+S1535,Mouse74,WT,Spleen,Il2,27.71,2,2026-04-27,False
+S1655,Mouse79,WT,Thymus,Tnfa,23.33,2,2026-03-23,False
+S0667,Mouse32,WT,Lymph Node,Tnfa,22.27,1,2026-05-03,False
+S0119,Mouse6,HET,Thymus,Cd8a,21.84,2,2026-03-22,False
+S0994,Mouse48,WT,Lymph Node,Foxp3,25.68,1,2026-05-04,False
+S0718,Mouse35,KO,Lymph Node,Ifng,31.88,1,2026-03-30,False
+S_55,Mouse3,HET,Thymus,Cd8a,20.88,1,2026-04-03,False
+S_490,Mouse24,WT,Thymus,Foxp3,25.48,1,2026-04-29,False
+s0756,Mouse36,KO,Spleen,Gapdh,17.85,3,2026-03-21,False
+S_361,Mouse18,KO,Spleen,Ifng,22.72,1,2026-04-19,False
+S0181 ,Mouse9,KO,Spleen,Cd8a,20.73,1,2026-04-18,False
+S0260,Mouse13,WT,Thymus,Foxp3,25.72,2,2026-06-03,False
+S1436,Mouse69,WT,Lymph Node,Foxp3,,2,2026-02-04,True
+s1654,Mouse79,WT,Thymus,Tnfa,23.6,1,2026-03-23,False
+S1834,Mouse88,KO,Thymus,Foxp3,26.29,1,2026-04-01,False
+S0735,Mouse35,KO,Lymph Node,Gapdh,18.3,3,2026-03-30,False
+S_1546,Mouse74,WT,Spleen,Cd8a,,1,2026-04-27,False
+s0211,Mouse11,KO,Lymph Node,Il2,27.21,1,2026-04-17,False
+s0831,Mouse40,WT,Spleen,Cd4,19.62,3,2026-11-03,False
+S1412,Mouse68,HET,Thymus,Ifng,21.51,2,2026-04-20,False
+S0377,Mouse18,KO,Spleen,Gapdh,,2,2026-04-19,False
+S1074,Mouse52,KO,Spleen,Il2,29.26,3,2026-04-17,False
+S1213,Mouse58,HET,Thymus,Tnfa,22.61,1,2026-04-19,False
+S1297,Mouse62,HET,Lymph Node,Tnfa,22.27,1,2026-04-03,False
+S_1505,Mouse72,KO,Thymus,Cd8a,20.25,2,2026-03-28,False
+S0024,Mouse2,WT,Spleen,Il2,24.24,3,2026-04-02,False
+S1016,Mouse49,HET,Thymus,Foxp3,25.66,2,2026-04-17,False
+S1206 ,Mouse58,HET,Thymus,Foxp3,25.67,3,2026-04-19,False
+S_693,Mouse33,HET,Spleen,Gapdh,18.13,3,2026-03-17,False
+S0152,Mouse8,WT,Thymus,Ifng,22.51,2,2026-04-08,False
+S0347,Mouse17,WT,Spleen,Cd4,20.3,2,2026-10-03,False
+S1624,Mouse78,WT,Spleen,Foxp3,28.8,1,2026-04-21,False
+S1564,Mouse75,HET,Spleen,Cd4,19.67,1,2026-10-03,False
+S0020,Mouse1,KO,Spleen,Gapdh,16.72,2,2026-03-15,False
+S1634,Mouse78,WT,Spleen,Tnfa,23.86,2,2026-04-21,False
+S_1345,Mouse65,WT,Spleen,Il2,24.17,1,2026-03-14,False
+S0143,Mouse7,WT,Lymph Node,Tnfa,22.81,2,2026-04-10,False
+S0229,Mouse11,KO,Lymph Node,Gapdh,16.78,1,2026-04-17,False
+S0214,Mouse11,KO,Lymph Node,Ifng,20.88,1,2026-04-17,False
+S1509,Mouse72,KO,Thymus,Tnfa,22.68,3,2026-03-28,False
+S1065,Mouse51,HET,Spleen,Cd8a,20.89,3,2026-04-29,False
+S1418,Mouse68,HET,Thymus,Cd4,20.3,2,2026-04-20,False
+S0740,Mouse36,KO,Spleen,Ifng,22.07,2,2026-03-21,False
+S0659,Mouse32,WT,Lymph Node,Foxp3,25.33,2,2026-05-03,False
+S0450,Mouse22,WT,Spleen,Foxp3,26.45,3,2026-03-03,False
+S0658,Mouse32,WT,Lymph Node,Foxp3,25.53,1,2026-05-03,False
+S0016,Mouse1,KO,Spleen,Tnfa,22.09,1,2026-03-15,False
+S1709,Mouse82,KO,Thymus,Foxp3,29.7,2,2026-03-16,False
+S1406,Mouse67,KO,Lymph Node,Gapdh,17.9,2,2026-04-06,False
+S_1690,Mouse81,WT,Spleen,Cd4,20.09,1,2026-03-20,False
+S_894,Mouse43,WT,Spleen,Cd4,20.17,3,2026-04-27,False
+S1319,Mouse63,KO,Spleen,Tnfa,22.7,2,2026-12-04,False
+S0665,Mouse32,WT,Lymph Node,Cd8a,20.69,2,2026-03-05,False
+S0312 ,Mouse15,WT,Thymus,Tnfa,24.26,3,2026-03-03,False
+S1518,Mouse73,WT,Lymph Node,Ifng,22.83,3,2026-04-14,False
+S0035,Mouse2,WT,Spleen,Cd8a,20.86,2,2026-04-02,False
+S0216 ,Mouse11,KO,Lymph Node,Ifng,21.03,3,2026-04-17,False
+S1103,Mouse53,WT,Thymus,Cd4,20.34,2,2026-03-30,False
+S_1269,Mouse61,KO,Spleen,Foxp3,29.1,3,2026-11-03,False
+S0355,Mouse17,WT,Spleen,Gapdh,18.28,1,2026-10-03,False
+S1119,Mouse54,KO,Thymus,Ifng,21.07,3,2026-04-28,False
+S0208,Mouse10,WT,Spleen,Gapdh,18.46,1,2026-10-04,False
+S1227,Mouse59,WT,Thymus,Foxp3,25.58,3,2026-03-24,False
+S0699,Mouse34,HET,Spleen,Ifng,22.07,3,2026-08-04,False
+S1574,Mouse75,HET,Spleen,Gapdh,17.5,2,2026-03-10,False
+s1443,Mouse69,WT,Lymph Node,Cd8a,21.77,3,2026-04-02,False
+S0654,Mouse32,WT,Lymph Node,Il2,22.76,3,2026-05-03,False
+S1029,Mouse49,HET,Thymus,Gapdh,18.33,3,2026-04-17,False
+S_417,Mouse20,WT,Spleen,Tnfa,23.9,3,2026-03-15,False
+S1672,Mouse80,WT,Spleen,Cd8a,20.33,1,2026-03-24,False
+S_1472,Mouse71,KO,Spleen,Il2,27.61,2,2026-09-03,False
+S1720,Mouse82,KO,Thymus,Gapdh,18.54,1,2026-03-16,False
+S1284,Mouse62,HET,Lymph Node,Il2,23.21,3,2026-03-04,False
+S0443,Mouse22,WT,Spleen,Il2,25.18,2,2026-03-03,False
+S_1047,Mouse50,HET,Thymus,Tnfa,23.39,3,2026-03-15,False
+S1091 ,Mouse52,KO,Spleen,Gapdh,,2,2026-04-17,True
+S0349,Mouse17,WT,Spleen,Cd8a,20.13,1,2026-03-10,False
+S0588,Mouse28,KO,Spleen,Gapdh,19.13,3,2026-03-28,False
+S0404,Mouse20,WT,Spleen,Ifng,23.05,2,2026-03-15,False
+s0363,Mouse18,KO,Spleen,Ifng,21.93,3,2026-04-19,False
+S0027,Mouse2,WT,Spleen,Ifng,,3,2026-02-04,True
+S1619,Mouse78,WT,Spleen,Il2,27.17,2,2026-04-21,False
+S1117,Mouse54,KO,Thymus,Ifng,21.47,1,2026-04-28,False
+S0178,Mouse9,KO,Spleen,Cd4,19.92,1,2026-04-18,False
+S1832,Mouse88,KO,Thymus,Ifng,22.86,2,2026-01-04,False
+S1620,Mouse78,WT,Spleen,Il2,27.19,3,2026-04-21,False
+S0706,Mouse34,HET,Spleen,Cd8a,20.75,1,2026-04-08,False
+S1675,Mouse80,WT,Spleen,Tnfa,22.69,1,2026-03-24,False
+S_253,Mouse13,WT,Thymus,Il2,23.22,1,2026-06-03,False
+S0415,Mouse20,WT,Spleen,Tnfa,22.84,1,2026-03-15,False
+S0194,Mouse10,WT,Spleen,Ifng,22.34,2,2026-10-04,False
+s1083,Mouse52,KO,Spleen,Cd4,20.33,3,2026-04-17,False
+S1706,Mouse82,KO,Thymus,Ifng,,2,2026-03-16,True
+S0937,Mouse45,KO,Thymus,Cd8a,21.39,1,2026-03-15,False
+S0446,Mouse22,WT,Spleen,Ifng,22.13,2,2026-03-03,False
+S1711,Mouse82,KO,Thymus,Cd4,19.45,1,2026-03-16,False
+S0884,Mouse43,WT,Spleen,Il2,24.03,2,2026-04-27,False
+S1011,Mouse49,HET,Thymus,Il2,23.06,3,2026-04-17,False
+s0452,Mouse22,WT,Spleen,Cd4,19.65,2,2026-03-03,False
+S0465,Mouse23,KO,Spleen,Il2,23.04,3,2026-04-29,False
+S0611,Mouse30,HET,Spleen,Il2,24.03,2,2026-10-03,False
+S0459,Mouse22,WT,Spleen,Tnfa,23.35,3,2026-03-03,False
+S1308,Mouse63,KO,Spleen,Ifng,22.1,3,2026-04-12,False
+S1511,Mouse72,KO,Thymus,Gapdh,16.86,2,2026-03-28,False
+S0839,Mouse40,WT,Spleen,Gapdh,18.12,2,2026-11-03,False
+s0370,Mouse18,KO,Spleen,Cd8a,19.91,1,2026-04-19,False
+S0485,Mouse24,WT,Thymus,Il2,23.16,2,2026-04-29,False
+S0603,Mouse29,WT,Spleen,Cd8a,20.53,3,2026-04-28,False
+S1127,Mouse54,KO,Thymus,Cd8a,19.65,2,2026-04-28,False
+S0308 ,Mouse15,WT,Thymus,Cd8a,20.92,2,2026-03-03,False
+S_286,Mouse14,HET,Thymus,Cd8a,21.18,1,2026-03-31,False
+S0621,Mouse30,HET,Spleen,Cd4,19.23,3,2026-10-03,False
+S1193,Mouse57,WT,Thymus,Tnfa,22.89,2,2026-04-13,False
+S1852,Mouse89,WT,Spleen,Ifng,21.52,1,2026-03-28,False
+S0563,Mouse27,WT,Spleen,Tnfa,23.2,2,2026-04-14,False
+S0596,Mouse29,WT,Spleen,Foxp3,28.82,2,2026-04-28,False
+S0849,Mouse41,KO,Spleen,Foxp3,29.39,3,2026-03-27,False
+S1163,Mouse56,WT,Thymus,Foxp3,25.04,2,2026-04-04,False
+S1196,Mouse57,WT,Thymus,Gapdh,17.91,2,2026-04-13,False
+S0098,Mouse5,KO,Lymph Node,Cd8a,,2,2026-04-09,False
+S0700,Mouse34,HET,Spleen,Foxp3,29.59,1,2026-08-04,False
+s0896,Mouse43,WT,Spleen,Cd8a,21.11,2,2026-04-27,False
+S0678,Mouse33,HET,Spleen,Ifng,21.81,3,2026-03-17,False
+S_140,Mouse7,WT,Lymph Node,Cd8a,21.32,2,2026-04-10,False
+s1497,Mouse72,KO,Thymus,Ifng,23.12,3,2026-03-28,False
+S0833,Mouse40,WT,Spleen,Cd8a,,2,2026-03-11,True
+S0632,Mouse31,HET,Spleen,Il2,24.42,2,2026-06-03,False
+S_846,Mouse41,KO,Spleen,Ifng,22.2,3,2026-03-27,False
+S_1407,Mouse67,KO,Lymph Node,Gapdh,17.2,3,2026-06-04,False
+s0129,Mouse7,WT,Lymph Node,Il2,24.39,3,2026-04-10,False
+S1751,Mouse84,KO,Spleen,Foxp3,27.3,2,2026-02-04,False
+S0597,Mouse29,WT,Spleen,Foxp3,30.97,3,2026-04-28,False
+S0684 ,Mouse33,HET,Spleen,Cd4,20.63,3,2026-03-17,False
+S1295,Mouse62,HET,Lymph Node,Cd8a,20.44,2,2026-03-04,False
+S0523,Mouse25,KO,Thymus,Gapdh,18.5,1,2026-03-21,False
+S0265,Mouse13,WT,Thymus,Cd8a,21.12,1,2026-06-03,False
+S1349,Mouse65,WT,Spleen,Ifng,21.04,2,2026-03-14,False
+S1347,Mouse65,WT,Spleen,Il2,24.69,3,2026-03-14,False
+S1510,Mouse72,KO,Thymus,Gapdh,18.46,1,2026-03-28,False
+s0499,Mouse24,WT,Thymus,Tnfa,23.3,1,2026-04-29,False
+s1264,Mouse61,KO,Spleen,Ifng,21.94,1,2026-03-11,False
+s1576,Mouse76,KO,Thymus,Il2,27.47,1,2026-03-17,False
+S1550 ,Mouse74,WT,Spleen,Tnfa,23.06,2,2026-04-27,False
+S0433,Mouse21,WT,Thymus,Cd8a,,1,2026-03-10,True
+S1099,Mouse53,WT,Thymus,Foxp3,26.6,1,2026-03-30,False
+S0708,Mouse34,HET,Spleen,Cd8a,21.06,3,2026-08-04,False
+S0069,Mouse4,HET,Lymph Node,Ifng,21.98,3,2026-04-02,False
+S1622,Mouse78,WT,Spleen,Ifng,22.46,2,2026-04-21,False
+S1721,Mouse82,KO,Thymus,Gapdh,18.54,2,2026-03-16,False
+S1180,Mouse57,WT,Thymus,Ifng,21.58,1,2026-04-13,False
+S0976,Mouse47,KO,Spleen,Cd4,20.34,1,2026-04-18,False
+S0339 ,Mouse17,WT,Spleen,Il2,26.28,3,2026-03-10,False
+S1134,Mouse54,KO,Thymus,Gapdh,17.08,3,2026-04-28,False
+S0384 ,Mouse19,KO,Lymph Node,Ifng,21.64,3,2026-11-03,False
+S0830,Mouse40,WT,Spleen,Cd4,,2,2026-03-11,True
+S0056 ,Mouse3,HET,Thymus,Cd8a,20.63,2,2026-04-03,False
+S1507,Mouse72,KO,Thymus,Tnfa,22.15,1,2026-03-28,False
+S_688,Mouse33,HET,Spleen,Tnfa,23.36,1,2026-03-17,False
+S1456 ,Mouse70,HET,Lymph Node,Foxp3,26.25,1,2026-03-26,False
+S0638,Mouse31,HET,Spleen,Foxp3,26.04,2,2026-03-06,False
+S1612,Mouse77,KO,Lymph Node,Tnfa,23.51,1,2026-03-14,False
+S0171,Mouse9,KO,Spleen,Il2,25.64,3,2026-04-18,False
+S1716,Mouse82,KO,Thymus,Cd8a,21.47,3,2026-03-16,False
+S0965,Mouse46,KO,Spleen,Gapdh,17.87,2,2026-03-21,False
+S0327,Mouse16,HET,Spleen,Cd4,20.25,3,2026-05-04,False
+S0504,Mouse24,WT,Thymus,Gapdh,18.33,3,2026-04-29,False
+S0893 ,Mouse43,WT,Spleen,Cd4,19.94,2,2026-04-27,False
+S0410,Mouse20,WT,Spleen,Cd4,20.41,2,2026-03-15,False
+S0298,Mouse15,WT,Thymus,Ifng,21.88,1,2026-03-03,False
+S1152,Mouse55,KO,Spleen,Tnfa,23.24,3,2026-03-29,False
+S1211,Mouse58,HET,Thymus,Cd8a,20.65,2,2026-04-19,False
+s0672,Mouse32,WT,Lymph Node,Gapdh,18.27,3,2026-03-05,False
+S0745,Mouse36,KO,Spleen,Cd4,19.98,1,2026-03-21,False
+S1040,Mouse50,HET,Thymus,Cd4,19.58,2,2026-03-15,False
+S0649,Mouse31,HET,Spleen,Gapdh,17.85,1,2026-06-03,False
+S1600,Mouse77,KO,Lymph Node,Ifng,21.55,1,2026-03-14,False
+S1462,Mouse70,HET,Lymph Node,Cd8a,20.76,1,2026-03-26,False
+S1863,Mouse89,WT,Spleen,Cd8a,21.33,3,2026-03-28,False
+s1043,Mouse50,HET,Thymus,Cd8a,19.74,2,2026-03-15,False
+S0532,Mouse26,WT,Lymph Node,Foxp3,25.64,1,2026-05-04,False
+S0408,Mouse20,WT,Spleen,Foxp3,26.82,3,2026-03-15,False
+S0200,Mouse10,WT,Spleen,Cd4,20.31,2,2026-10-04,False
+s0474,Mouse23,KO,Spleen,Cd4,20.89,3,2026-04-29,False
+S0841,Mouse41,KO,Spleen,Il2,28.43,1,2026-03-27,False
+S0217,Mouse11,KO,Lymph Node,Foxp3,29.22,1,2026-04-17,False
+S0254,Mouse13,WT,Thymus,Il2,23.94,2,2026-06-03,False
+S0153,Mouse8,WT,Thymus,Ifng,22.1,3,2026-04-08,False
+S0825,Mouse40,WT,Spleen,Ifng,22.17,3,2026-11-03,False
+S1078,Mouse52,KO,Spleen,Foxp3,29.89,1,2026-04-17,False
+S1195,Mouse57,WT,Thymus,Gapdh,18.03,1,2026-04-13,False
+S1383,Mouse66,KO,Thymus,Tnfa,23.17,3,2026-04-01,False
+S0636,Mouse31,HET,Spleen,Ifng,21.34,3,2026-06-03,False
+S1532,Mouse73,WT,Lymph Node,Gapdh,18.07,2,2026-04-14,False
+S1178,Mouse57,WT,Thymus,Il2,25.05,2,2026-04-13,False
+S0531,Mouse26,WT,Lymph Node,Ifng,22.22,3,2026-05-04,False
+s1082,Mouse52,KO,Spleen,Cd4,19.9,2,2026-04-17,False
+S1887 ,Mouse90,KO,Thymus,Tnfa,,3,2026-03-05,True
+S0241,Mouse12,WT,Thymus,Cd4,20.57,1,2026-03-04,False
+S1261 ,Mouse61,KO,Spleen,Il2,27.5,1,2026-03-11,False
+S1356,Mouse65,WT,Spleen,Cd4,20.48,3,2026-03-14,False
+S0188,Mouse9,KO,Spleen,Gapdh,18.06,2,2026-04-18,False
+S0247 ,Mouse12,WT,Thymus,Tnfa,22.56,1,2026-03-04,False
+S1325,Mouse64,WT,Lymph Node,Il2,23.98,2,2026-04-07,False
+S0949,Mouse46,KO,Spleen,Ifng,22.5,1,2026-03-21,False
+S0803,Mouse39,KO,Spleen,Ifng,21.73,2,2026-04-25,False
+s0303,Mouse15,WT,Thymus,Foxp3,26.78,3,2026-03-03,False
+S0284,Mouse14,HET,Thymus,Cd4,19.58,2,2026-03-31,False
+S1324,Mouse64,WT,Lymph Node,Il2,24.46,1,2026-04-07,False
+S0506,Mouse25,KO,Thymus,Il2,27.84,2,2026-03-21,False
+S1827,Mouse87,HET,Spleen,Gapdh,19.1,3,2026-03-15,False
+S0968,Mouse47,KO,Spleen,Il2,26.27,2,2026-04-18,False
+S1402,Mouse67,KO,Lymph Node,Tnfa,23.09,1,2026-04-06,False
+S1200,Mouse58,HET,Thymus,Il2,23.18,3,2026-04-19,False
+S0755,Mouse36,KO,Spleen,Gapdh,17.56,2,2026-03-21,False
+S0622,Mouse30,HET,Spleen,Cd8a,20.22,1,2026-03-10,False
+S1660,Mouse80,WT,Spleen,Il2,22.78,1,2026-03-24,False
+S0948,Mouse46,KO,Spleen,Il2,23.59,3,2026-03-21,False
+s0123,Mouse6,HET,Thymus,Tnfa,22.41,3,2026-03-22,False
+S0729,Mouse35,KO,Lymph Node,Cd8a,20.45,3,2026-03-30,False
+s0511,Mouse25,KO,Thymus,Foxp3,29.66,1,2026-03-21,False
+S0281 ,Mouse14,HET,Thymus,Foxp3,25.65,2,2026-03-31,False
+S1184,Mouse57,WT,Thymus,Foxp3,26.75,2,2026-04-13,False
+S1320,Mouse63,KO,Spleen,Tnfa,22.3,3,2026-04-12,False
+S0886,Mouse43,WT,Spleen,Ifng,22.45,1,2026-04-27,False
+S1719,Mouse82,KO,Thymus,Tnfa,23.26,3,2026-03-16,False
+S1003,Mouse48,WT,Lymph Node,Tnfa,22.7,1,2026-04-05,False
+S0519,Mouse25,KO,Thymus,Cd8a,20.48,3,2026-03-21,False
+S0689 ,Mouse33,HET,Spleen,Tnfa,22.23,2,2026-03-17,False
+S1433,Mouse69,WT,Lymph Node,Ifng,23.09,2,2026-02-04,False
+S0068,Mouse4,HET,Lymph Node,Ifng,22.92,2,2026-02-04,False
+S1881,Mouse90,KO,Thymus,Cd4,19.28,3,2026-03-05,False
+S0569,Mouse28,KO,Spleen,Il2,27.22,2,2026-03-28,False
+S0769,Mouse37,HET,Spleen,Cd8a,21.26,1,2026-03-03,False
+S1138,Mouse55,KO,Spleen,Ifng,22.44,1,2026-03-29,False
+S1361,Mouse65,WT,Spleen,Tnfa,23.05,2,2026-03-14,False
+S1678,Mouse80,WT,Spleen,Gapdh,18.61,1,2026-03-24,False
+S0473,Mouse23,KO,Spleen,Cd4,20.0,2,2026-04-29,False
+S1294,Mouse62,HET,Lymph Node,Cd8a,19.81,1,2026-04-03,False
+S0512,Mouse25,KO,Thymus,Foxp3,28.96,2,2026-03-21,False
+S0971 ,Mouse47,KO,Spleen,Ifng,21.4,2,2026-04-18,False
+S1417 ,Mouse68,HET,Thymus,Cd4,19.38,1,2026-04-20,False
+S1332,Mouse64,WT,Lymph Node,Foxp3,25.33,3,2026-04-07,False
+S0319,Mouse16,HET,Spleen,Ifng,,1,2026-05-04,False
+S0904,Mouse44,KO,Spleen,Il2,23.09,1,2026-03-11,False
+S0582,Mouse28,KO,Spleen,Cd8a,21.23,3,2026-03-28,False
+s0133,Mouse7,WT,Lymph Node,Foxp3,26.37,1,2026-04-10,False
+s1635,Mouse78,WT,Spleen,Tnfa,22.29,3,2026-04-21,False
+S0836,Mouse40,WT,Spleen,Tnfa,23.28,2,2026-03-11,False
+S0716,Mouse35,KO,Lymph Node,Il2,28.44,2,2026-03-30,False
+S1847,Mouse88,KO,Thymus,Gapdh,18.79,2,2026-01-04,False
+S0369,Mouse18,KO,Spleen,Cd4,20.62,3,2026-04-19,False
+S_1296,Mouse62,HET,Lymph Node,Cd8a,20.91,3,2026-04-03,False
+S0126 ,Mouse6,HET,Thymus,Gapdh,26.09,3,2026-03-22,False
+S0842,Mouse41,KO,Spleen,Il2,28.58,2,2026-03-27,False
+S0946,Mouse46,KO,Spleen,Il2,23.14,1,2026-03-21,False
+S0257 ,Mouse13,WT,Thymus,Ifng,22.93,2,2026-03-06,False
+S1861,Mouse89,WT,Spleen,Cd8a,20.72,1,2026-03-28,False
+S1052,Mouse51,HET,Spleen,Il2,24.73,2,2026-04-29,False
+S0290,Mouse14,HET,Thymus,Tnfa,22.66,2,2026-03-31,False
+S0082,Mouse4,HET,Lymph Node,Gapdh,17.7,1,2026-02-04,False
+S0054,Mouse3,HET,Thymus,Cd4,20.45,3,2026-04-03,False
+S1084,Mouse52,KO,Spleen,Cd8a,20.45,1,2026-04-17,False
+S0558,Mouse27,WT,Spleen,Cd4,18.67,3,2026-04-14,False
+S0041,Mouse2,WT,Spleen,Gapdh,18.13,2,2026-04-02,False
+S1147,Mouse55,KO,Spleen,Cd8a,20.48,1,2026-03-29,False
+S0262,Mouse13,WT,Thymus,Cd4,21.41,1,2026-06-03,False
+S1524 ,Mouse73,WT,Lymph Node,Cd4,19.9,3,2026-04-14,False
+S1095,Mouse53,WT,Thymus,Il2,23.35,3,2026-03-30,False
+S0084,Mouse4,HET,Lymph Node,Gapdh,,3,2026-02-04,False
+S1282,Mouse62,HET,Lymph Node,Il2,24.33,1,2026-03-04,False
+s1154,Mouse55,KO,Spleen,Gapdh,18.46,2,2026-03-29,False
+S_1657,Mouse79,WT,Thymus,Gapdh,17.66,1,2026-03-23,False
+S0730,Mouse35,KO,Lymph Node,Tnfa,22.19,1,2026-03-30,False
+S0031,Mouse2,WT,Spleen,Cd4,19.39,1,2026-04-02,False
+S0514,Mouse25,KO,Thymus,Cd4,19.0,1,2026-03-21,False
+S1234,Mouse59,WT,Thymus,Tnfa,22.15,1,2026-03-24,False
+S1789,Mouse86,WT,Spleen,Ifng,22.5,1,2026-03-18,False
+S0913,Mouse44,KO,Spleen,Cd4,20.26,1,2026-03-11,False
+S1248,Mouse60,HET,Thymus,Foxp3,25.81,3,2026-03-01,False
+S1241,Mouse60,HET,Thymus,Il2,23.34,2,2026-01-03,False
+S1512,Mouse72,KO,Thymus,Gapdh,18.1,3,2026-03-28,False
+S1343,Mouse64,WT,Lymph Node,Gapdh,17.48,2,2026-04-07,False
+S1835,Mouse88,KO,Thymus,Foxp3,24.91,2,2026-01-04,False
+S1739,Mouse83,KO,Thymus,Tnfa,23.31,2,2026-03-23,False
+S1776 ,Mouse85,KO,Thymus,Cd4,19.89,3,2026-04-03,False
+S0049,Mouse3,HET,Thymus,Foxp3,25.32,1,2026-03-04,False
+S1331,Mouse64,WT,Lymph Node,Foxp3,26.07,2,2026-07-04,False
+S1759,Mouse84,KO,Spleen,Tnfa,22.55,1,2026-04-02,False
+S0468,Mouse23,KO,Spleen,Ifng,21.15,3,2026-04-29,False
+s0154,Mouse8,WT,Thymus,Foxp3,33.73,1,2026-04-08,False
+S1777,Mouse85,KO,Thymus,Cd8a,20.53,1,2026-04-03,False
+S0395,Mouse19,KO,Lymph Node,Tnfa,22.08,2,2026-03-11,False
+S0124,Mouse6,HET,Thymus,Gapdh,17.66,1,2026-03-22,False
+S0356,Mouse17,WT,Spleen,Gapdh,18.03,2,2026-10-03,False
+S0135 ,Mouse7,WT,Lymph Node,Foxp3,25.77,3,2026-10-04,False
+S0269,Mouse13,WT,Thymus,Tnfa,23.07,2,2026-06-03,False
+S0386,Mouse19,KO,Lymph Node,Foxp3,29.53,2,2026-03-11,False
+S0610,Mouse30,HET,Spleen,Il2,23.92,1,2026-03-10,False
+S0221,Mouse11,KO,Lymph Node,Cd4,19.57,2,2026-04-17,False
+S0042,Mouse2,WT,Spleen,Gapdh,18.53,3,2026-04-02,False
+S0220,Mouse11,KO,Lymph Node,Cd4,19.35,1,2026-04-17,False
+S0598,Mouse29,WT,Spleen,Cd4,20.08,1,2026-04-28,False
+S_1197,Mouse57,WT,Thymus,Gapdh,18.58,3,2026-04-13,False
+S1681,Mouse81,WT,Spleen,Il2,24.62,1,2026-03-20,False
+S_681,Mouse33,HET,Spleen,Foxp3,26.55,3,2026-03-17,False
+S1028,Mouse49,HET,Thymus,Gapdh,18.7,2,2026-04-17,False
+S1806,Mouse86,WT,Spleen,Gapdh,17.9,3,2026-03-18,False
+S1304,Mouse63,KO,Spleen,Il2,27.3,2,2026-12-04,False
+S0542 ,Mouse26,WT,Lymph Node,Tnfa,,2,2026-04-05,True
+S1741 ,Mouse83,KO,Thymus,Gapdh,17.92,1,2026-03-23,False
+S0757,Mouse37,HET,Spleen,Il2,23.96,1,2026-03-03,False
+S0934,Mouse45,KO,Thymus,Cd4,20.27,1,2026-03-15,False
+S1783,Mouse85,KO,Thymus,Gapdh,17.99,1,2026-04-03,False
+s1432,Mouse69,WT,Lymph Node,Ifng,22.05,1,2026-04-02,False
+S0821 ,Mouse40,WT,Spleen,Il2,23.33,2,2026-03-11,False
+S1229,Mouse59,WT,Thymus,Cd4,20.33,2,2026-03-24,False
+S1414,Mouse68,HET,Thymus,Foxp3,25.92,1,2026-04-20,False
+S1498,Mouse72,KO,Thymus,Foxp3,25.35,1,2026-03-28,False
+S0979,Mouse47,KO,Spleen,Cd8a,21.04,1,2026-04-18,False
+S1694,Mouse81,WT,Spleen,Cd8a,21.66,2,2026-03-20,False
+S1169,Mouse56,WT,Thymus,Cd8a,21.08,2,2026-04-04,False
+S1727,Mouse83,KO,Thymus,Ifng,21.56,2,2026-03-23,False
+S1747,Mouse84,KO,Spleen,Ifng,22.05,1,2026-02-04,False
+s1733,Mouse83,KO,Thymus,Cd4,,2,2026-03-23,True
+S_818,Mouse39,KO,Spleen,Gapdh,17.87,2,2026-04-25,False
+S0337,Mouse17,WT,Spleen,Il2,27.1,1,2026-10-03,False
+S0233,Mouse12,WT,Thymus,Il2,23.52,2,2026-03-04,False
+S0900,Mouse43,WT,Spleen,Tnfa,22.38,3,2026-04-27,False
+S1351,Mouse65,WT,Spleen,Foxp3,25.95,1,2026-03-14,False
+S0159,Mouse8,WT,Thymus,Cd4,20.46,3,2026-08-04,False
+s0469,Mouse23,KO,Spleen,Foxp3,25.61,1,2026-04-29,False
+S1166,Mouse56,WT,Thymus,Cd4,20.33,2,2026-04-04,False
+S1484 ,Mouse71,KO,Spleen,Cd8a,20.73,2,2026-09-03,False
+s1556,Mouse75,HET,Spleen,Il2,24.34,2,2026-10-03,False
+S1698 ,Mouse81,WT,Spleen,Tnfa,22.43,3,2026-03-20,False
+S0586,Mouse28,KO,Spleen,Gapdh,,1,2026-03-28,True
+S0206,Mouse10,WT,Spleen,Tnfa,23.39,2,2026-10-04,False
+S0004,Mouse1,KO,Spleen,Ifng,22.91,1,2026-03-15,False
+S0790,Mouse38,KO,Thymus,Cd8a,20.74,1,2026-04-18,False
+S0880,Mouse42,KO,Thymus,Gapdh,17.76,1,2026-12-04,False
+S1071,Mouse51,HET,Spleen,Gapdh,17.92,3,2026-04-29,False
+S_1750,Mouse84,KO,Spleen,Foxp3,25.49,1,2026-02-04,False
+S1160,Mouse56,WT,Thymus,Ifng,29.96,2,2026-04-04,False
+S0985,Mouse47,KO,Spleen,Gapdh,18.63,1,2026-04-18,False
+S0694 ,Mouse34,HET,Spleen,Il2,,1,2026-04-08,True
+S1589,Mouse76,KO,Thymus,Cd8a,,2,2026-03-17,False
+S1570,Mouse75,HET,Spleen,Tnfa,23.09,1,2026-10-03,False
+S0715,Mouse35,KO,Lymph Node,Il2,28.47,1,2026-03-30,False
+S1769,Mouse85,KO,Thymus,Ifng,22.05,2,2026-03-04,False
+S1076,Mouse52,KO,Spleen,Ifng,22.24,2,2026-04-17,False
+s1848,Mouse88,KO,Thymus,Gapdh,18.84,3,2026-01-04,False
+S1355,Mouse65,WT,Spleen,Cd4,20.17,2,2026-03-14,False
+S0986,Mouse47,KO,Spleen,Gapdh,17.68,2,2026-04-18,False
+S1126,Mouse54,KO,Thymus,Cd8a,21.92,1,2026-04-28,False
+S1424,Mouse68,HET,Thymus,Tnfa,23.35,2,2026-04-20,False
+S1740,Mouse83,KO,Thymus,Tnfa,23.82,3,2026-03-23,False
+S0158,Mouse8,WT,Thymus,Cd4,19.32,2,2026-04-08,False
+S0977 ,Mouse47,KO,Spleen,Cd4,20.84,2,2026-04-18,False
+S_524,Mouse25,KO,Thymus,Gapdh,17.32,2,2026-03-21,False
+s0463,Mouse23,KO,Spleen,Il2,23.92,1,2026-04-29,False
+S0653 ,Mouse32,WT,Lymph Node,Il2,24.75,2,2026-03-05,False
+S0161,Mouse8,WT,Thymus,Cd8a,21.25,2,2026-08-04,False
+S0306,Mouse15,WT,Thymus,Cd4,19.81,3,2026-03-03,False
+S0657,Mouse32,WT,Lymph Node,Ifng,21.16,3,2026-05-03,False
+S0548,Mouse27,WT,Spleen,Il2,23.76,2,2026-04-14,False
+S0714,Mouse34,HET,Spleen,Gapdh,18.32,3,2026-08-04,False
+S0396,Mouse19,KO,Lymph Node,Tnfa,23.77,3,2026-11-03,False
+S0784,Mouse38,KO,Thymus,Foxp3,29.31,1,2026-04-18,False
+S0400,Mouse20,WT,Spleen,Il2,,1,2026-03-15,False
+S0799,Mouse39,KO,Spleen,Il2,23.69,1,2026-04-25,False
+s0619,Mouse30,HET,Spleen,Cd4,20.49,1,2026-10-03,False
+s1744,Mouse84,KO,Spleen,Il2,24.79,1,2026-02-04,False
+S0954,Mouse46,KO,Spleen,Foxp3,24.55,3,2026-03-21,False
+S1307,Mouse63,KO,Spleen,Ifng,21.77,2,2026-12-04,False
+S0737,Mouse36,KO,Spleen,Il2,26.98,2,2026-03-21,False
+S_1019,Mouse49,HET,Thymus,Cd4,20.32,2,2026-04-17,False
+S1592,Mouse76,KO,Thymus,Tnfa,22.85,2,2026-03-17,False
+S1039,Mouse50,HET,Thymus,Cd4,20.66,1,2026-03-15,False
+S0460,Mouse22,WT,Spleen,Gapdh,18.19,1,2026-03-03,False
+S0063,Mouse3,HET,Thymus,Gapdh,17.96,3,2026-04-03,False
+S1012,Mouse49,HET,Thymus,Ifng,23.2,1,2026-04-17,False
+S0868,Mouse42,KO,Thymus,Foxp3,26.67,1,2026-04-12,False
+S0458,Mouse22,WT,Spleen,Tnfa,22.85,2,2026-03-03,False
+S1278,Mouse61,KO,Spleen,Tnfa,23.28,3,2026-11-03,False
+S0479 ,Mouse23,KO,Spleen,Tnfa,22.38,2,2026-04-29,False
+S0987,Mouse47,KO,Spleen,Gapdh,18.79,3,2026-04-18,False
+S1410,Mouse68,HET,Thymus,Il2,24.16,3,2026-04-20,False
+S0791,Mouse38,KO,Thymus,Cd8a,21.87,2,2026-04-18,False
+S0618,Mouse30,HET,Spleen,Foxp3,25.01,3,2026-10-03,False
+S_1761,Mouse84,KO,Spleen,Tnfa,22.63,3,2026-04-02,False
+S0978,Mouse47,KO,Spleen,Cd4,20.55,3,2026-04-18,False
+S1873,Mouse90,KO,Thymus,Ifng,22.42,1,2026-03-05,False
+s1088,Mouse52,KO,Spleen,Tnfa,23.18,2,2026-04-17,False
+S1543,Mouse74,WT,Spleen,Cd4,,1,2026-04-27,True
+S0348,Mouse17,WT,Spleen,Cd4,20.05,3,2026-03-10,False
+S1643,Mouse79,WT,Thymus,Ifng,22.16,2,2026-03-23,False
+S1140,Mouse55,KO,Spleen,Ifng,22.35,3,2026-03-29,False
+S1421,Mouse68,HET,Thymus,Cd8a,20.94,2,2026-04-20,False
+S0761,Mouse37,HET,Spleen,Ifng,22.23,2,2026-03-03,False
+S0447,Mouse22,WT,Spleen,Ifng,21.93,3,2026-03-03,False
+S0651,Mouse31,HET,Spleen,Gapdh,,3,2026-06-03,False
+s1517,Mouse73,WT,Lymph Node,Ifng,21.88,2,2026-04-14,False
+S1705,Mouse82,KO,Thymus,Ifng,22.53,1,2026-03-16,False
+S0380,Mouse19,KO,Lymph Node,Il2,28.31,2,2026-11-03,False
+S_565,Mouse27,WT,Spleen,Gapdh,18.38,1,2026-04-14,False
+S1652,Mouse79,WT,Thymus,Cd8a,19.66,2,2026-03-23,False
+S0982,Mouse47,KO,Spleen,Tnfa,23.24,1,2026-04-18,False
+S1818,Mouse87,HET,Spleen,Cd4,19.61,3,2026-03-15,False
+S0862,Mouse42,KO,Thymus,Il2,24.63,1,2026-04-12,False
+S0232,Mouse12,WT,Thymus,Il2,24.51,1,2026-04-03,False
+S1153,Mouse55,KO,Spleen,Gapdh,18.91,1,2026-03-29,False
+S0383,Mouse19,KO,Lymph Node,Ifng,21.04,2,2026-11-03,False
+S1118,Mouse54,KO,Thymus,Ifng,22.93,2,2026-04-28,False
+s1815,Mouse87,HET,Spleen,Foxp3,26.04,3,2026-03-15,False
+S0073,Mouse4,HET,Lymph Node,Cd4,,1,2026-04-02,True
+S0071,Mouse4,HET,Lymph Node,Foxp3,24.43,2,2026-02-04,False
+S1579,Mouse76,KO,Thymus,Ifng,,1,2026-03-17,True
+S0926,Mouse45,KO,Thymus,Il2,27.65,2,2026-03-15,False
+S0172,Mouse9,KO,Spleen,Ifng,22.06,1,2026-04-18,False
+S_1403,Mouse67,KO,Lymph Node,Tnfa,22.71,2,2026-06-04,False
+s0169,Mouse9,KO,Spleen,Il2,24.73,1,2026-04-18,False
+S0494,Mouse24,WT,Thymus,Cd4,19.97,2,2026-04-29,False
+S1191 ,Mouse57,WT,Thymus,Cd8a,21.38,3,2026-04-13,False
+S_929,Mouse45,KO,Thymus,Ifng,21.25,2,2026-03-15,False
+S1674,Mouse80,WT,Spleen,Cd8a,21.31,3,2026-03-24,False
+S0273,Mouse13,WT,Thymus,Gapdh,19.28,3,2026-06-03,False
+S1233,Mouse59,WT,Thymus,Cd8a,21.1,3,2026-03-24,False
+S0421,Mouse21,WT,Thymus,Il2,23.99,1,2026-03-10,False
+S0095,Mouse5,KO,Lymph Node,Cd4,20.0,2,2026-04-09,False
+S1595,Mouse76,KO,Thymus,Gapdh,18.53,2,2026-03-17,False
+S1503,Mouse72,KO,Thymus,Cd4,20.72,3,2026-03-28,False
+S1514,Mouse73,WT,Lymph Node,Il2,23.88,2,2026-04-14,False
+s0043,Mouse3,HET,Thymus,Il2,23.39,1,2026-04-03,False
+S0057,Mouse3,HET,Thymus,Cd8a,20.1,3,2026-03-04,False
+S1633,Mouse78,WT,Spleen,Tnfa,23.69,1,2026-04-21,False
+S1073,Mouse52,KO,Spleen,Il2,26.24,2,2026-04-17,False
+S1115,Mouse54,KO,Thymus,Il2,26.73,2,2026-04-28,False
+S1226,Mouse59,WT,Thymus,Foxp3,,2,2026-03-24,True
+s1334,Mouse64,WT,Lymph Node,Cd4,19.98,2,2026-07-04,False
+S0039,Mouse2,WT,Spleen,Tnfa,24.67,3,2026-02-04,False
+S0307,Mouse15,WT,Thymus,Cd8a,21.19,1,2026-03-03,False
+S0916,Mouse44,KO,Spleen,Cd8a,21.43,1,2026-03-11,False
+S0007,Mouse1,KO,Spleen,Foxp3,26.95,1,2026-03-15,False
+S1817,Mouse87,HET,Spleen,Cd4,18.98,2,2026-03-15,False
+S0783,Mouse38,KO,Thymus,Ifng,21.74,3,2026-04-18,False
+S0409,Mouse20,WT,Spleen,Cd4,19.42,1,2026-03-15,False
+S1490,Mouse71,KO,Spleen,Gapdh,17.47,2,2026-09-03,False
+S_782,Mouse38,KO,Thymus,Ifng,21.72,2,2026-04-18,False
+S0167,Mouse8,WT,Thymus,Gapdh,18.53,2,2026-04-08,False
+S0535,Mouse26,WT,Lymph Node,Cd4,20.7,1,2026-05-04,False
+S0584,Mouse28,KO,Spleen,Tnfa,22.45,2,2026-03-28,False
+S1588 ,Mouse76,KO,Thymus,Cd8a,20.43,1,2026-03-17,False
+S1808 ,Mouse87,HET,Spleen,Il2,24.69,2,2026-03-15,False
+S1381,Mouse66,KO,Thymus,Tnfa,22.25,1,2026-04-01,False
+S1837,Mouse88,KO,Thymus,Cd4,18.9,1,2026-04-01,False
+S1202,Mouse58,HET,Thymus,Ifng,,2,2026-04-19,False
+S1797 ,Mouse86,WT,Spleen,Cd4,19.58,3,2026-03-18,False
+S1791,Mouse86,WT,Spleen,Ifng,22.46,3,2026-03-18,False
+s0998,Mouse48,WT,Lymph Node,Cd4,19.94,2,2026-05-04,False
+s0814,Mouse39,KO,Spleen,Tnfa,23.14,1,2026-04-25,False
+S0317,Mouse16,HET,Spleen,Il2,24.37,2,2026-05-04,False
+S1839,Mouse88,KO,Thymus,Cd4,20.62,3,2026-04-01,False
+S1638,Mouse78,WT,Spleen,Gapdh,17.84,3,2026-04-21,False
+S0517,Mouse25,KO,Thymus,Cd8a,20.61,1,2026-03-21,False
+S1569,Mouse75,HET,Spleen,Cd8a,20.82,3,2026-10-03,False
+S1590 ,Mouse76,KO,Thymus,Cd8a,21.97,3,2026-03-17,False
+S_1133,Mouse54,KO,Thymus,Gapdh,17.31,2,2026-04-28,False
+S0534,Mouse26,WT,Lymph Node,Foxp3,25.91,3,2026-05-04,False
+S0174,Mouse9,KO,Spleen,Ifng,21.98,3,2026-04-18,False
+S1048,Mouse50,HET,Thymus,Gapdh,17.16,1,2026-03-15,False
+S0272,Mouse13,WT,Thymus,Gapdh,17.26,2,2026-03-06,False
+S_549,Mouse27,WT,Spleen,Il2,22.78,3,2026-04-14,False
+S0669,Mouse32,WT,Lymph Node,Tnfa,22.86,3,2026-05-03,False
+S1559,Mouse75,HET,Spleen,Ifng,22.05,2,2026-03-10,False
+s0607,Mouse29,WT,Spleen,Gapdh,18.96,1,2026-04-28,False
+S1615,Mouse77,KO,Lymph Node,Gapdh,18.5,1,2026-03-14,False
+S1552,Mouse74,WT,Spleen,Gapdh,17.64,1,2026-04-27,False
+S0805,Mouse39,KO,Spleen,Foxp3,26.95,1,2026-04-25,False
+S0599,Mouse29,WT,Spleen,Cd4,20.07,2,2026-04-28,False
+S0947,Mouse46,KO,Spleen,Il2,24.08,2,2026-03-21,False
+S1527,Mouse73,WT,Lymph Node,Cd8a,21.21,3,2026-04-14,False
+S1042,Mouse50,HET,Thymus,Cd8a,20.84,1,2026-03-15,False
+S0752,Mouse36,KO,Spleen,Tnfa,23.58,2,2026-03-21,False
+S0571,Mouse28,KO,Spleen,Ifng,22.5,1,2026-03-28,False
+S0075,Mouse4,HET,Lymph Node,Cd4,20.06,3,2026-04-02,False
+S0062,Mouse3,HET,Thymus,Gapdh,18.81,2,2026-04-03,False
+S1885,Mouse90,KO,Thymus,Tnfa,23.38,1,2026-03-05,False
+S_537,Mouse26,WT,Lymph Node,Cd4,20.2,3,2026-04-05,False
+S1884,Mouse90,KO,Thymus,Cd8a,22.34,3,2026-03-05,False
+S_1778,Mouse85,KO,Thymus,Cd8a,20.88,2,2026-04-03,False
+S1788,Mouse86,WT,Spleen,Il2,22.89,3,2026-03-18,False
+S0810,Mouse39,KO,Spleen,Cd4,19.45,3,2026-04-25,False
+S0245,Mouse12,WT,Thymus,Cd8a,20.2,2,2026-04-03,False
+s0026,Mouse2,WT,Spleen,Ifng,21.69,2,2026-04-02,False
+S_1344,Mouse64,WT,Lymph Node,Gapdh,16.63,3,2026-04-07,False
+S0956,Mouse46,KO,Spleen,Cd4,20.46,2,2026-03-21,False
+S0223,Mouse11,KO,Lymph Node,Cd8a,20.56,1,2026-04-17,False
+S1664,Mouse80,WT,Spleen,Ifng,22.75,2,2026-03-24,False
+S0106,Mouse6,HET,Thymus,Il2,23.96,1,2026-03-22,False
+S0674,Mouse33,HET,Spleen,Il2,24.7,2,2026-03-17,False
+S0643,Mouse31,HET,Spleen,Cd8a,20.66,1,2026-06-03,False
+S1209,Mouse58,HET,Thymus,Cd4,19.77,3,2026-04-19,False
+S0666,Mouse32,WT,Lymph Node,Cd8a,21.29,3,2026-05-03,False
+S0510,Mouse25,KO,Thymus,Ifng,22.03,3,2026-03-21,False
+S0132,Mouse7,WT,Lymph Node,Ifng,21.45,3,2026-10-04,False
+s1110,Mouse53,WT,Thymus,Tnfa,23.38,3,2026-03-30,False
+S_1549,Mouse74,WT,Spleen,Tnfa,23.42,1,2026-04-27,False
+S0445,Mouse22,WT,Spleen,Ifng,21.58,1,2026-03-03,False
+S1026,Mouse49,HET,Thymus,Tnfa,22.6,3,2026-04-17,False
+S0509,Mouse25,KO,Thymus,Ifng,21.02,2,2026-03-21,False
+S0867,Mouse42,KO,Thymus,Ifng,22.35,3,2026-12-04,False
+S1049,Mouse50,HET,Thymus,Gapdh,17.5,2,2026-03-15,False
+S1670,Mouse80,WT,Spleen,Cd4,19.53,2,2026-03-24,False
+S0076,Mouse4,HET,Lymph Node,Cd8a,19.81,1,2026-04-02,False
+S0037,Mouse2,WT,Spleen,Tnfa,22.24,1,2026-04-02,False
+S1685,Mouse81,WT,Spleen,Ifng,21.27,2,2026-03-20,False
+S0058,Mouse3,HET,Thymus,Tnfa,,1,2026-03-04,True
+S0197,Mouse10,WT,Spleen,Foxp3,25.17,2,2026-10-04,False
+S1575,Mouse75,HET,Spleen,Gapdh,17.24,3,2026-10-03,False
+S1764,Mouse84,KO,Spleen,Gapdh,,3,2026-04-02,True
+S1398,Mouse67,KO,Lymph Node,Cd4,19.23,3,2026-04-06,False
+S1075,Mouse52,KO,Spleen,Ifng,21.48,1,2026-04-17,False
+S0322,Mouse16,HET,Spleen,Foxp3,25.59,1,2026-05-04,False
+S1536,Mouse74,WT,Spleen,Il2,27.37,3,2026-04-27,False
+S1568 ,Mouse75,HET,Spleen,Cd8a,22.6,2,2026-10-03,False
+S0478,Mouse23,KO,Spleen,Tnfa,23.32,1,2026-04-29,False
+S0087,Mouse5,KO,Lymph Node,Il2,27.56,3,2026-09-04,False
+S1757,Mouse84,KO,Spleen,Cd8a,20.63,2,2026-04-02,False
+S0562,Mouse27,WT,Spleen,Tnfa,23.69,1,2026-04-14,False
+S0772,Mouse37,HET,Spleen,Tnfa,22.23,1,2026-03-03,False
+S0335,Mouse16,HET,Spleen,Gapdh,18.69,2,2026-04-05,False
+S1171,Mouse56,WT,Thymus,Tnfa,23.07,1,2026-04-04,False
+S1314,Mouse63,KO,Spleen,Cd4,19.11,3,2026-04-12,False
+S1874,Mouse90,KO,Thymus,Ifng,21.8,2,2026-05-03,False
+S1150,Mouse55,KO,Spleen,Tnfa,22.63,1,2026-03-29,False
+S0709,Mouse34,HET,Spleen,Tnfa,22.02,1,2026-08-04,False
+S1222,Mouse59,WT,Thymus,Ifng,22.22,1,2026-03-24,False
+S1478,Mouse71,KO,Spleen,Foxp3,29.86,2,2026-03-09,False
+S_1268,Mouse61,KO,Spleen,Foxp3,29.69,2,2026-11-03,False
+S1276,Mouse61,KO,Spleen,Tnfa,22.99,1,2026-03-11,False
+S_1545,Mouse74,WT,Spleen,Cd4,18.94,3,2026-04-27,False
+S0539,Mouse26,WT,Lymph Node,Cd8a,20.71,2,2026-04-05,False
+S1123,Mouse54,KO,Thymus,Cd4,20.1,1,2026-04-28,False
+S1364,Mouse65,WT,Spleen,Gapdh,18.05,2,2026-03-14,False
+s1725,Mouse83,KO,Thymus,Il2,27.55,3,2026-03-23,False
+S1474,Mouse71,KO,Spleen,Ifng,23.2,1,2026-09-03,False
+S1376 ,Mouse66,KO,Thymus,Cd4,19.58,2,2026-04-01,False
+S0419,Mouse20,WT,Spleen,Gapdh,18.59,2,2026-03-15,False
+S1252,Mouse60,HET,Thymus,Cd8a,21.57,1,2026-03-01,False
+S1780,Mouse85,KO,Thymus,Tnfa,23.16,1,2026-03-04,False
+S1752,Mouse84,KO,Spleen,Foxp3,25.89,3,2026-04-02,False
+S0574,Mouse28,KO,Spleen,Foxp3,29.21,1,2026-03-28,False
+S1021,Mouse49,HET,Thymus,Cd8a,21.83,1,2026-04-17,False
+S1616,Mouse77,KO,Lymph Node,Gapdh,17.74,2,2026-03-14,False
+S0333,Mouse16,HET,Spleen,Tnfa,23.34,3,2026-04-05,False
+S1500,Mouse72,KO,Thymus,Foxp3,26.16,3,2026-03-28,False
+S0852,Mouse41,KO,Spleen,Cd4,19.56,3,2026-03-27,False
+S0973,Mouse47,KO,Spleen,Foxp3,30.58,1,2026-04-18,False
+S0811,Mouse39,KO,Spleen,Cd8a,20.4,1,2026-04-25,False
+S0736,Mouse36,KO,Spleen,Il2,,1,2026-03-21,True
+S0902,Mouse43,WT,Spleen,Gapdh,17.58,2,2026-04-27,False
+S1738,Mouse83,KO,Thymus,Tnfa,21.9,1,2026-03-23,False
+S0575,Mouse28,KO,Spleen,Foxp3,29.79,2,2026-03-28,False
+S1636,Mouse78,WT,Spleen,Gapdh,17.85,1,2026-04-21,False
+S1876,Mouse90,KO,Thymus,Foxp3,29.72,1,2026-05-03,False
+S1641,Mouse79,WT,Thymus,Il2,23.52,3,2026-03-23,False
+S1736,Mouse83,KO,Thymus,Cd8a,21.41,2,2026-03-23,False
+S1882,Mouse90,KO,Thymus,Cd8a,21.09,1,2026-03-05,False
+s1096,Mouse53,WT,Thymus,Ifng,22.98,1,2026-03-30,False
+S1243,Mouse60,HET,Thymus,Ifng,22.73,1,2026-01-03,False
+S1605,Mouse77,KO,Lymph Node,Foxp3,30.05,3,2026-03-14,False
+S1491,Mouse71,KO,Spleen,Gapdh,17.49,3,2026-09-03,False
+S0009,Mouse1,KO,Spleen,Foxp3,31.63,3,2026-03-15,False
+S1086,Mouse52,KO,Spleen,Cd8a,22.2,3,2026-04-17,False
+S1762 ,Mouse84,KO,Spleen,Gapdh,17.98,1,2026-02-04,False
+S1639,Mouse79,WT,Thymus,Il2,25.08,1,2026-03-23,False
+S1281,Mouse61,KO,Spleen,Gapdh,18.83,3,2026-11-03,False
+S1702,Mouse82,KO,Thymus,Il2,27.95,1,2026-03-16,False
+S0305,Mouse15,WT,Thymus,Cd4,20.41,2,2026-03-03,False
+S1781,Mouse85,KO,Thymus,Tnfa,23.06,2,2026-04-03,False
+S0336,Mouse16,HET,Spleen,Gapdh,,3,2026-05-04,True
+S0996,Mouse48,WT,Lymph Node,Foxp3,26.68,3,2026-05-04,False
+S0570,Mouse28,KO,Spleen,Il2,26.99,3,2026-03-28,False
+S0089,Mouse5,KO,Lymph Node,Ifng,21.58,2,2026-09-04,False
+S0875 ,Mouse42,KO,Thymus,Cd8a,,2,2026-04-12,False
+S1850 ,Mouse89,WT,Spleen,Il2,23.87,2,2026-03-28,False
+S1444,Mouse69,WT,Lymph Node,Tnfa,22.75,1,2026-02-04,False
+S0713,Mouse34,HET,Spleen,Gapdh,17.72,2,2026-08-04,False
+S1754,Mouse84,KO,Spleen,Cd4,,2,2026-04-02,True
+S1313,Mouse63,KO,Spleen,Cd4,20.57,2,2026-04-12,False
+S0222,Mouse11,KO,Lymph Node,Cd4,,3,2026-04-17,True
+S0320,Mouse16,HET,Spleen,Ifng,21.46,2,2026-04-05,False
+S1663,Mouse80,WT,Spleen,Ifng,21.09,1,2026-03-24,False
+S_879,Mouse42,KO,Thymus,Tnfa,23.22,3,2026-04-12,False
+S1708,Mouse82,KO,Thymus,Foxp3,,1,2026-03-16,True
+S0826,Mouse40,WT,Spleen,Foxp3,27.47,1,2026-03-11,False
+S1878,Mouse90,KO,Thymus,Foxp3,29.77,3,2026-03-05,False
+S1391,Mouse67,KO,Lymph Node,Ifng,22.45,2,2026-06-04,False
+S0139,Mouse7,WT,Lymph Node,Cd8a,21.63,1,2026-10-04,False
+S0164,Mouse8,WT,Thymus,Tnfa,23.09,2,2026-04-08,False
+s1688,Mouse81,WT,Spleen,Foxp3,26.39,2,2026-03-20,False
+S1375,Mouse66,KO,Thymus,Cd4,20.17,1,2026-01-04,False
+s0961,Mouse46,KO,Spleen,Tnfa,23.0,1,2026-03-21,False
+S1367,Mouse66,KO,Thymus,Il2,27.02,2,2026-04-01,False
+S1826,Mouse87,HET,Spleen,Gapdh,18.51,2,2026-03-15,False
+S1627,Mouse78,WT,Spleen,Cd4,20.11,1,2026-04-21,False
+S0634,Mouse31,HET,Spleen,Ifng,22.68,1,2026-03-06,False
+S1128,Mouse54,KO,Thymus,Cd8a,,3,2026-04-28,True
+S0656,Mouse32,WT,Lymph Node,Ifng,21.78,2,2026-03-05,False
+S0017,Mouse1,KO,Spleen,Tnfa,22.74,2,2026-03-15,False
+S1843,Mouse88,KO,Thymus,Tnfa,22.34,1,2026-04-01,False
+S1170,Mouse56,WT,Thymus,Cd8a,20.74,3,2026-04-04,False
+s0138,Mouse7,WT,Lymph Node,Cd4,20.33,3,2026-10-04,False
+S1165,Mouse56,WT,Thymus,Cd4,19.99,1,2026-04-04,False
+S0698,Mouse34,HET,Spleen,Ifng,22.66,2,2026-08-04,False
+S1533,Mouse73,WT,Lymph Node,Gapdh,17.41,3,2026-04-14,False
+s0449,Mouse22,WT,Spleen,Foxp3,26.37,2,2026-03-03,False
+s1794,Mouse86,WT,Spleen,Foxp3,25.67,3,2026-03-18,False
+S0328,Mouse16,HET,Spleen,Cd8a,20.66,1,2026-04-05,False
+S_318,Mouse16,HET,Spleen,Il2,24.38,3,2026-05-04,False
+s1450,Mouse70,HET,Lymph Node,Il2,23.63,1,2026-03-26,False
+S0527,Mouse26,WT,Lymph Node,Il2,22.52,2,2026-05-04,False
+S0088,Mouse5,KO,Lymph Node,Ifng,22.58,1,2026-04-09,False
+S1389,Mouse67,KO,Lymph Node,Il2,28.37,3,2026-04-06,False
+S0149,Mouse8,WT,Thymus,Il2,24.37,2,2026-04-08,False
+S_1540,Mouse74,WT,Spleen,Foxp3,30.44,1,2026-04-27,False
+S1821,Mouse87,HET,Spleen,Cd8a,19.82,3,2026-03-15,False
+S1386,Mouse66,KO,Thymus,Gapdh,18.73,3,2026-01-04,False
+S0366,Mouse18,KO,Spleen,Foxp3,26.47,3,2026-04-19,False
+S0590,Mouse29,WT,Spleen,Il2,26.75,2,2026-04-28,False
+S1434,Mouse69,WT,Lymph Node,Ifng,22.37,3,2026-02-04,False
+S0199,Mouse10,WT,Spleen,Cd4,20.31,1,2026-04-10,False
+S1795,Mouse86,WT,Spleen,Cd4,20.09,1,2026-03-18,False
+S0193 ,Mouse10,WT,Spleen,Ifng,22.21,1,2026-10-04,False
+S0405,Mouse20,WT,Spleen,Ifng,21.85,3,2026-03-15,False
+S1494,Mouse72,KO,Thymus,Il2,23.18,3,2026-03-28,False
+S1879,Mouse90,KO,Thymus,Cd4,19.06,1,2026-03-05,False
+S0484,Mouse24,WT,Thymus,Il2,25.15,1,2026-04-29,False
+S1385,Mouse66,KO,Thymus,Gapdh,18.39,2,2026-04-01,False
+S0792,Mouse38,KO,Thymus,Cd8a,21.12,3,2026-04-18,False
+S0800,Mouse39,KO,Spleen,Il2,24.85,2,2026-04-25,False
+S0385,Mouse19,KO,Lymph Node,Foxp3,29.5,1,2026-03-11,False
+S0751,Mouse36,KO,Spleen,Tnfa,23.38,1,2026-03-21,False
+S0423,Mouse21,WT,Thymus,Il2,23.83,3,2026-03-10,False
+S0315,Mouse15,WT,Thymus,Gapdh,18.69,3,2026-03-03,False
+S1022,Mouse49,HET,Thymus,Cd8a,21.47,2,2026-04-17,False
+S0544 ,Mouse26,WT,Lymph Node,Gapdh,19.25,1,2026-04-05,False
+S0914,Mouse44,KO,Spleen,Cd4,19.7,2,2026-11-03,False
+S0663 ,Mouse32,WT,Lymph Node,Cd4,20.43,3,2026-03-05,False
+S0903,Mouse43,WT,Spleen,Gapdh,,3,2026-04-27,True
+S1439 ,Mouse69,WT,Lymph Node,Cd4,19.85,2,2026-04-02,False
+s0686,Mouse33,HET,Spleen,Cd8a,20.15,2,2026-03-17,False
+S1593,Mouse76,KO,Thymus,Tnfa,,3,2026-03-17,False
+S0160,Mouse8,WT,Thymus,Cd8a,,1,2026-04-08,True
+S1000,Mouse48,WT,Lymph Node,Cd8a,,1,2026-04-05,True
+S1237 ,Mouse59,WT,Thymus,Gapdh,17.56,1,2026-03-24,False
+S1684,Mouse81,WT,Spleen,Ifng,22.4,1,2026-03-20,False
+S0203,Mouse10,WT,Spleen,Cd8a,21.34,2,2026-10-04,False
+S1024,Mouse49,HET,Thymus,Tnfa,32.13,1,2026-04-17,False
+S1454,Mouse70,HET,Lymph Node,Ifng,22.39,2,2026-03-26,False
+S_1129,Mouse54,KO,Thymus,Tnfa,23.04,1,2026-04-28,False
+S0113,Mouse6,HET,Thymus,Foxp3,25.98,2,2026-03-22,False
+S1714,Mouse82,KO,Thymus,Cd8a,20.82,1,2026-03-16,False
+S0981,Mouse47,KO,Spleen,Cd8a,21.42,3,2026-04-18,False
+S0923,Mouse44,KO,Spleen,Gapdh,17.08,2,2026-03-11,False
+s1495,Mouse72,KO,Thymus,Ifng,22.11,1,2026-03-28,False
+S1857,Mouse89,WT,Spleen,Foxp3,25.98,3,2026-03-28,False
+S1348,Mouse65,WT,Spleen,Ifng,21.33,1,2026-03-14,False
+S1582,Mouse76,KO,Thymus,Foxp3,29.54,1,2026-03-17,False
+s0816,Mouse39,KO,Spleen,Tnfa,,3,2026-04-25,False
+S1298,Mouse62,HET,Lymph Node,Tnfa,23.36,2,2026-04-03,False
+S1228,Mouse59,WT,Thymus,Cd4,19.97,1,2026-03-24,False
+S_680,Mouse33,HET,Spleen,Foxp3,,2,2026-03-17,False
+S1094,Mouse53,WT,Thymus,Il2,,2,2026-03-30,False
+S_81,Mouse4,HET,Lymph Node,Tnfa,22.51,3,2026-04-02,False
+s1668,Mouse80,WT,Spleen,Foxp3,26.08,3,2026-03-24,False
+S1279,Mouse61,KO,Spleen,Gapdh,17.98,1,2026-03-11,False
+S1560,Mouse75,HET,Spleen,Ifng,,3,2026-03-10,True
+S0753,Mouse36,KO,Spleen,Tnfa,23.37,3,2026-03-21,False
+S1717,Mouse82,KO,Thymus,Tnfa,23.63,1,2026-03-16,False
+S_1055,Mouse51,HET,Spleen,Ifng,22.22,2,2026-04-29,False
+S0243,Mouse12,WT,Thymus,Cd4,20.23,3,2026-03-04,False
+S1277,Mouse61,KO,Spleen,Tnfa,23.65,2,2026-11-03,False
+S0642,Mouse31,HET,Spleen,Cd4,19.91,3,2026-06-03,False
+S0697,Mouse34,HET,Spleen,Ifng,21.98,1,2026-04-08,False
+S0210,Mouse10,WT,Spleen,Gapdh,17.86,3,2026-10-04,False
+S1249,Mouse60,HET,Thymus,Cd4,20.08,1,2026-03-01,False
+S0771,Mouse37,HET,Spleen,Cd8a,21.16,3,2026-03-03,False
+S1662,Mouse80,WT,Spleen,Il2,24.75,3,2026-03-24,False
+S0436 ,Mouse21,WT,Thymus,Tnfa,23.3,1,2026-10-03,False
+S1064,Mouse51,HET,Spleen,Cd8a,20.38,2,2026-04-29,False
+S0975 ,Mouse47,KO,Spleen,Foxp3,,3,2026-04-18,False
+s0552,Mouse27,WT,Spleen,Ifng,21.79,3,2026-04-14,False
+S1530,Mouse73,WT,Lymph Node,Tnfa,22.66,3,2026-04-14,False
+S1335,Mouse64,WT,Lymph Node,Cd4,18.82,3,2026-04-07,False
+S_1014,Mouse49,HET,Thymus,Ifng,23.07,3,2026-04-17,False
+S1790,Mouse86,WT,Spleen,Ifng,21.89,2,2026-03-18,False
+S0467,Mouse23,KO,Spleen,Ifng,21.55,2,2026-04-29,False
+s1400,Mouse67,KO,Lymph Node,Cd8a,19.83,2,2026-06-04,False
+S1242,Mouse60,HET,Thymus,Il2,23.81,3,2026-03-01,False
+S0278,Mouse14,HET,Thymus,Ifng,21.63,2,2026-03-31,False
+S1070,Mouse51,HET,Spleen,Gapdh,18.27,2,2026-04-29,False
+S1018,Mouse49,HET,Thymus,Cd4,20.11,1,2026-04-17,False
+S1258,Mouse60,HET,Thymus,Gapdh,16.71,1,2026-01-03,False
+S0723,Mouse35,KO,Lymph Node,Foxp3,29.81,3,2026-03-30,False
+s0787,Mouse38,KO,Thymus,Cd4,20.75,1,2026-04-18,False
+S1465,Mouse70,HET,Lymph Node,Tnfa,22.15,1,2026-03-26,False
+S1245,Mouse60,HET,Thymus,Ifng,23.39,3,2026-01-03,False
+S_1302,Mouse62,HET,Lymph Node,Gapdh,18.89,3,2026-04-03,False
+S1239,Mouse59,WT,Thymus,Gapdh,18.65,3,2026-03-24,False
+S0907,Mouse44,KO,Spleen,Ifng,22.94,1,2026-11-03,False
+S0564,Mouse27,WT,Spleen,Tnfa,22.75,3,2026-04-14,False
+S0389,Mouse19,KO,Lymph Node,Cd4,19.36,2,2026-03-11,False
+S0023,Mouse2,WT,Spleen,Il2,25.54,2,2026-04-02,False
+S1858,Mouse89,WT,Spleen,Cd4,20.17,1,2026-03-28,False
+S0125 ,Mouse6,HET,Thymus,Gapdh,18.06,2,2026-03-22,False
+S1492 ,Mouse72,KO,Thymus,Il2,,1,2026-03-28,True
+S0774,Mouse37,HET,Spleen,Tnfa,23.63,3,2026-03-03,False
+S0881,Mouse42,KO,Thymus,Gapdh,18.02,2,2026-04-12,False
+S1145,Mouse55,KO,Spleen,Cd4,19.98,2,2026-03-29,False
+S0051,Mouse3,HET,Thymus,Foxp3,26.35,3,2026-03-04,False
+S_1327,Mouse64,WT,Lymph Node,Ifng,21.77,1,2026-07-04,False
+S1382,Mouse66,KO,Thymus,Tnfa,22.7,2,2026-01-04,False
+S1106,Mouse53,WT,Thymus,Cd8a,20.44,2,2026-03-30,False
+S0704,Mouse34,HET,Spleen,Cd4,18.97,2,2026-08-04,False
+S_483,Mouse23,KO,Spleen,Gapdh,18.56,3,2026-04-29,False
+S1146,Mouse55,KO,Spleen,Cd4,19.43,3,2026-03-29,False
+S1809,Mouse87,HET,Spleen,Il2,24.71,3,2026-03-15,False
+S0067,Mouse4,HET,Lymph Node,Ifng,22.22,1,2026-02-04,False
+S1631,Mouse78,WT,Spleen,Cd8a,21.16,2,2026-04-21,False
+S0734,Mouse35,KO,Lymph Node,Gapdh,19.58,2,2026-03-30,False
+S1691 ,Mouse81,WT,Spleen,Cd4,18.98,2,2026-03-20,False
+S0802,Mouse39,KO,Spleen,Ifng,21.78,1,2026-04-25,False
+S1466,Mouse70,HET,Lymph Node,Tnfa,21.94,2,2026-03-26,False
+S1845,Mouse88,KO,Thymus,Tnfa,22.82,3,2026-01-04,False
+s0908,Mouse44,KO,Spleen,Ifng,21.96,2,2026-03-11,False
+s0032,Mouse2,WT,Spleen,Cd4,19.9,2,2026-02-04,False
+S0418,Mouse20,WT,Spleen,Gapdh,25.03,1,2026-03-15,False
+S0882,Mouse42,KO,Thymus,Gapdh,18.77,3,2026-04-12,False
+s0633,Mouse31,HET,Spleen,Il2,25.11,3,2026-03-06,False
+S1481,Mouse71,KO,Spleen,Cd4,19.51,2,2026-03-09,False
+S_1689,Mouse81,WT,Spleen,Foxp3,25.42,3,2026-03-20,False
+S_65,Mouse4,HET,Lymph Node,Il2,,2,2026-02-04,False
+S1539,Mouse74,WT,Spleen,Ifng,21.82,3,2026-04-27,False
+S1525,Mouse73,WT,Lymph Node,Cd8a,21.54,1,2026-04-14,False
+S0078,Mouse4,HET,Lymph Node,Cd8a,,3,2026-04-02,True
+S_492,Mouse24,WT,Thymus,Foxp3,25.5,3,2026-04-29,False
+S1341,Mouse64,WT,Lymph Node,Tnfa,21.62,3,2026-04-07,False
+S1446,Mouse69,WT,Lymph Node,Tnfa,22.16,3,2026-04-02,False
+S_533,Mouse26,WT,Lymph Node,Foxp3,26.05,2,2026-04-05,False
+S0066,Mouse4,HET,Lymph Node,Il2,23.61,3,2026-04-02,False
+S1810,Mouse87,HET,Spleen,Ifng,20.96,1,2026-03-15,False
+S0297,Mouse15,WT,Thymus,Il2,24.33,3,2026-03-03,False
+S0592,Mouse29,WT,Spleen,Ifng,22.9,1,2026-04-28,False
+S0768,Mouse37,HET,Spleen,Cd4,19.0,3,2026-03-03,False
+S0725,Mouse35,KO,Lymph Node,Cd4,20.11,2,2026-03-30,False
+S1353,Mouse65,WT,Spleen,Foxp3,26.85,3,2026-03-14,False
+S0627,Mouse30,HET,Spleen,Tnfa,22.85,3,2026-03-10,False
+S1339,Mouse64,WT,Lymph Node,Tnfa,23.7,1,2026-04-07,False
+S1842,Mouse88,KO,Thymus,Cd8a,20.75,3,2026-01-04,False
+S1529,Mouse73,WT,Lymph Node,Tnfa,23.24,2,2026-04-14,False
+S0252 ,Mouse12,WT,Thymus,Gapdh,17.44,3,2026-04-03,False
+S1724,Mouse83,KO,Thymus,Il2,27.11,2,2026-03-23,False
+S1250,Mouse60,HET,Thymus,Cd4,19.91,2,2026-01-03,False
+S1801,Mouse86,WT,Spleen,Tnfa,22.47,1,2026-03-18,False
+s0983,Mouse47,KO,Spleen,Tnfa,23.54,2,2026-04-18,False
+S1680,Mouse80,WT,Spleen,Gapdh,18.08,3,2026-03-24,False
+S0707,Mouse34,HET,Spleen,Cd8a,20.23,2,2026-04-08,False
+S0488,Mouse24,WT,Thymus,Ifng,,2,2026-04-29,True
+S0274,Mouse14,HET,Thymus,Il2,22.83,1,2026-03-31,False
+S1427,Mouse68,HET,Thymus,Gapdh,18.3,2,2026-04-20,False
+S1584,Mouse76,KO,Thymus,Foxp3,,3,2026-03-17,True
+S0964,Mouse46,KO,Spleen,Gapdh,18.53,1,2026-03-21,False
+S0878,Mouse42,KO,Thymus,Tnfa,22.51,2,2026-12-04,False
+S1333,Mouse64,WT,Lymph Node,Cd4,19.4,1,2026-04-07,False
+S1718,Mouse82,KO,Thymus,Tnfa,22.48,2,2026-03-16,False
+S0412,Mouse20,WT,Spleen,Cd8a,19.94,1,2026-03-15,False
+S_668,Mouse32,WT,Lymph Node,Tnfa,,2,2026-05-03,True
+S0150,Mouse8,WT,Thymus,Il2,24.73,3,2026-08-04,False
+S0645,Mouse31,HET,Spleen,Cd8a,20.98,3,2026-06-03,False
+S1523,Mouse73,WT,Lymph Node,Cd4,18.28,2,2026-04-14,False
+S0219,Mouse11,KO,Lymph Node,Foxp3,29.54,3,2026-04-17,False
+S0240,Mouse12,WT,Thymus,Foxp3,25.03,3,2026-04-03,False
+S1132,Mouse54,KO,Thymus,Gapdh,17.99,1,2026-04-28,False
+S1217,Mouse58,HET,Thymus,Gapdh,18.14,2,2026-04-19,False
+S0793,Mouse38,KO,Thymus,Tnfa,23.62,1,2026-04-18,False
+S0192,Mouse10,WT,Spleen,Il2,23.31,3,2026-10-04,False
+S0334,Mouse16,HET,Spleen,Gapdh,18.52,1,2026-05-04,False
+S1260,Mouse60,HET,Thymus,Gapdh,19.5,3,2026-01-03,False
+S0963 ,Mouse46,KO,Spleen,Tnfa,23.9,3,2026-03-21,False
+S1659,Mouse79,WT,Thymus,Gapdh,17.6,3,2026-03-23,False
+S1846,Mouse88,KO,Thymus,Gapdh,18.47,1,2026-01-04,False
+S1567,Mouse75,HET,Spleen,Cd8a,21.61,1,2026-10-03,False
+S1534,Mouse74,WT,Spleen,Il2,26.96,1,2026-04-27,False
+S0583,Mouse28,KO,Spleen,Tnfa,23.45,1,2026-03-28,False
+S1807,Mouse87,HET,Spleen,Il2,24.74,1,2026-03-15,False
+S_1362,Mouse65,WT,Spleen,Tnfa,24.03,3,2026-03-14,False
+S0840,Mouse40,WT,Spleen,Gapdh,17.09,3,2026-03-11,False
+S0628,Mouse30,HET,Spleen,Gapdh,,1,2026-10-03,True
+S_324,Mouse16,HET,Spleen,Foxp3,25.91,3,2026-04-05,False
+s1558,Mouse75,HET,Spleen,Ifng,23.45,1,2026-03-10,False
+S1161,Mouse56,WT,Thymus,Ifng,21.64,3,2026-04-04,False
+S0779,Mouse38,KO,Thymus,Il2,28.06,2,2026-04-18,False
+S1077,Mouse52,KO,Spleen,Ifng,21.44,3,2026-04-17,False
+S0940,Mouse45,KO,Thymus,Tnfa,23.43,1,2026-03-15,False
+S0438,Mouse21,WT,Thymus,Tnfa,22.52,3,2026-03-10,False
+s0120,Mouse6,HET,Thymus,Cd8a,20.16,3,2026-03-22,False
+S1458,Mouse70,HET,Lymph Node,Foxp3,,3,2026-03-26,False
+S1482 ,Mouse71,KO,Spleen,Cd4,20.0,3,2026-03-09,False
+S1027,Mouse49,HET,Thymus,Gapdh,17.98,1,2026-04-17,False
+S1254,Mouse60,HET,Thymus,Cd8a,20.2,3,2026-01-03,False
+S1310 ,Mouse63,KO,Spleen,Foxp3,29.5,2,2026-12-04,False
+S0077,Mouse4,HET,Lymph Node,Cd8a,20.87,2,2026-02-04,False
+S1054,Mouse51,HET,Spleen,Ifng,21.95,1,2026-04-29,False
+S0901,Mouse43,WT,Spleen,Gapdh,18.08,1,2026-04-27,False
+S0372,Mouse18,KO,Spleen,Cd8a,,3,2026-04-19,False
+S1765,Mouse85,KO,Thymus,Il2,26.66,1,2026-03-04,False
+S_1368,Mouse66,KO,Thymus,Il2,28.28,3,2026-01-04,False
+S1869,Mouse89,WT,Spleen,Gapdh,17.84,3,2026-03-28,False
+S0942,Mouse45,KO,Thymus,Tnfa,23.86,3,2026-03-15,False
+S0578,Mouse28,KO,Spleen,Cd4,19.69,2,2026-03-28,False
+S0820,Mouse40,WT,Spleen,Il2,24.4,1,2026-11-03,False
+S1392,Mouse67,KO,Lymph Node,Ifng,22.36,3,2026-04-06,False
+S1413,Mouse68,HET,Thymus,Ifng,22.73,3,2026-04-20,False
+S1742 ,Mouse83,KO,Thymus,Gapdh,18.57,2,2026-03-23,False
+S1820,Mouse87,HET,Spleen,Cd8a,20.71,2,2026-03-15,False
+S0887,Mouse43,WT,Spleen,Ifng,22.39,2,2026-04-27,False
+S0969,Mouse47,KO,Spleen,Il2,27.35,3,2026-04-18,False
+S1621,Mouse78,WT,Spleen,Ifng,22.18,1,2026-04-21,False
+S0786,Mouse38,KO,Thymus,Foxp3,29.21,3,2026-04-18,False
+S1460,Mouse70,HET,Lymph Node,Cd4,,2,2026-03-26,False
+S1526 ,Mouse73,WT,Lymph Node,Cd8a,21.47,2,2026-04-14,False
+S0302,Mouse15,WT,Thymus,Foxp3,26.49,2,2026-03-03,False
+S0690,Mouse33,HET,Spleen,Tnfa,24.05,3,2026-03-17,False
+S0813,Mouse39,KO,Spleen,Cd8a,20.98,3,2026-04-25,False
+S1062,Mouse51,HET,Spleen,Cd4,19.59,3,2026-04-29,False
+S0237,Mouse12,WT,Thymus,Ifng,21.8,3,2026-03-04,False
+S1116,Mouse54,KO,Thymus,Il2,26.51,3,2026-04-28,False
+S1289,Mouse62,HET,Lymph Node,Foxp3,26.03,2,2026-03-04,False
+S0500,Mouse24,WT,Thymus,Tnfa,22.41,2,2026-04-29,False
+s1572,Mouse75,HET,Spleen,Tnfa,24.09,3,2026-03-10,False
+S1080,Mouse52,KO,Spleen,Foxp3,29.11,3,2026-04-17,False
+S0795,Mouse38,KO,Thymus,Tnfa,23.16,3,2026-04-18,False
+S1451,Mouse70,HET,Lymph Node,Il2,23.92,2,2026-03-26,False
+S1828,Mouse88,KO,Thymus,Il2,23.55,1,2026-04-01,False
+S0991,Mouse48,WT,Lymph Node,Ifng,23.04,1,2026-05-04,False
+S1303,Mouse63,KO,Spleen,Il2,27.59,1,2026-12-04,False
+S0935,Mouse45,KO,Thymus,Cd4,20.34,2,2026-03-15,False
+s0388,Mouse19,KO,Lymph Node,Cd4,20.37,1,2026-11-03,False
+S0391,Mouse19,KO,Lymph Node,Cd8a,21.07,1,2026-11-03,False
+S0744,Mouse36,KO,Spleen,Foxp3,29.08,3,2026-03-21,False
+S0353,Mouse17,WT,Spleen,Tnfa,23.04,2,2026-10-03,False
+S1218,Mouse58,HET,Thymus,Gapdh,17.07,3,2026-04-19,False
+S0236,Mouse12,WT,Thymus,Ifng,29.56,2,2026-04-03,False
+S1618,Mouse78,WT,Spleen,Il2,27.79,1,2026-04-21,False
+S0481,Mouse23,KO,Spleen,Gapdh,17.47,1,2026-04-29,False
+S0568,Mouse28,KO,Spleen,Il2,27.65,1,2026-03-28,False
+S_1141,Mouse55,KO,Spleen,Foxp3,25.85,1,2026-03-29,False
+S1597,Mouse77,KO,Lymph Node,Il2,27.39,1,2026-03-14,False
+S1766,Mouse85,KO,Thymus,Il2,27.45,2,2026-03-04,False
+S1485,Mouse71,KO,Spleen,Cd8a,21.57,3,2026-03-09,False
+S0121,Mouse6,HET,Thymus,Tnfa,23.35,1,2026-03-22,False
+S1637,Mouse78,WT,Spleen,Gapdh,18.02,2,2026-04-21,False
+S1025,Mouse49,HET,Thymus,Tnfa,22.67,2,2026-04-17,False
+S1087,Mouse52,KO,Spleen,Tnfa,23.58,1,2026-04-17,False
+S1273,Mouse61,KO,Spleen,Cd8a,21.32,1,2026-11-03,False
+S0927,Mouse45,KO,Thymus,Il2,27.36,3,2026-03-15,False
+S0516,Mouse25,KO,Thymus,Cd4,19.27,3,2026-03-21,False
+S0224,Mouse11,KO,Lymph Node,Cd8a,26.39,2,2026-04-17,False
+s1415,Mouse68,HET,Thymus,Foxp3,26.53,2,2026-04-20,False
+S0614,Mouse30,HET,Spleen,Ifng,22.92,2,2026-10-03,False
+S0844,Mouse41,KO,Spleen,Ifng,21.77,1,2026-03-27,False
+S1246,Mouse60,HET,Thymus,Foxp3,26.24,1,2026-03-01,False
+S0053,Mouse3,HET,Thymus,Cd4,,2,2026-03-04,False
+S1748,Mouse84,KO,Spleen,Ifng,21.04,2,2026-04-02,False
+S_486,Mouse24,WT,Thymus,Il2,24.34,3,2026-04-29,False
+S1813,Mouse87,HET,Spleen,Foxp3,26.23,1,2026-03-15,False
+S_819,Mouse39,KO,Spleen,Gapdh,17.97,3,2026-04-25,False
+S0156,Mouse8,WT,Thymus,Foxp3,34.95,3,2026-08-04,False
+S0601,Mouse29,WT,Spleen,Cd8a,21.29,1,2026-04-28,False
+S1521,Mouse73,WT,Lymph Node,Foxp3,26.12,3,2026-04-14,False
+S0249,Mouse12,WT,Thymus,Tnfa,22.86,3,2026-04-03,False
+S0762,Mouse37,HET,Spleen,Ifng,22.37,3,2026-03-03,False
+S1732,Mouse83,KO,Thymus,Cd4,20.39,1,2026-03-23,False
+S1131,Mouse54,KO,Thymus,Tnfa,22.73,3,2026-04-28,False
+S_543,Mouse26,WT,Lymph Node,Tnfa,23.17,3,2026-04-05,False
+S0794,Mouse38,KO,Thymus,Tnfa,22.11,2,2026-04-18,False
+S1142,Mouse55,KO,Spleen,Foxp3,26.24,2,2026-03-29,False
+S1476,Mouse71,KO,Spleen,Ifng,22.73,3,2026-09-03,False
+S0629,Mouse30,HET,Spleen,Gapdh,16.38,2,2026-03-10,False
+s0151,Mouse8,WT,Thymus,Ifng,22.14,1,2026-08-04,False
+S1557,Mouse75,HET,Spleen,Il2,23.2,3,2026-03-10,False
+S_292,Mouse14,HET,Thymus,Gapdh,18.37,1,2026-03-31,False
+S0382,Mouse19,KO,Lymph Node,Ifng,22.74,1,2026-03-11,False
+S0687,Mouse33,HET,Spleen,Cd8a,20.07,3,2026-03-17,False
+S1225,Mouse59,WT,Thymus,Foxp3,27.0,1,2026-03-24,False
+S0898,Mouse43,WT,Spleen,Tnfa,23.12,1,2026-04-27,False
+S0855,Mouse41,KO,Spleen,Cd8a,20.69,3,2026-03-27,False
+S1072,Mouse52,KO,Spleen,Il2,28.15,1,2026-04-17,False
+s1890,Mouse90,KO,Thymus,Gapdh,17.63,3,2026-03-05,False
+s1448,Mouse69,WT,Lymph Node,Gapdh,24.81,2,2026-04-02,False
+S1603,Mouse77,KO,Lymph Node,Foxp3,29.57,1,2026-03-14,False
+S0892,Mouse43,WT,Spleen,Cd4,20.95,1,2026-04-27,False
+S0616,Mouse30,HET,Spleen,Foxp3,25.74,1,2026-03-10,False
+S_155,Mouse8,WT,Thymus,Foxp3,25.29,2,2026-08-04,False
+S1194 ,Mouse57,WT,Thymus,Tnfa,22.92,3,2026-04-13,False
+S1625,Mouse78,WT,Spleen,Foxp3,29.06,2,2026-04-21,False
+S1888,Mouse90,KO,Thymus,Gapdh,17.67,1,2026-05-03,False
+s1687,Mouse81,WT,Spleen,Foxp3,26.16,1,2026-03-20,False
+S0323,Mouse16,HET,Spleen,Foxp3,26.59,2,2026-04-05,False
+S1467,Mouse70,HET,Lymph Node,Tnfa,22.08,3,2026-03-26,False
+S1283,Mouse62,HET,Lymph Node,Il2,24.01,2,2026-04-03,False
+s0083,Mouse4,HET,Lymph Node,Gapdh,18.55,2,2026-02-04,False
+S0513,Mouse25,KO,Thymus,Foxp3,29.88,3,2026-03-21,False
+S1447,Mouse69,WT,Lymph Node,Gapdh,18.43,1,2026-02-04,False
+S0930,Mouse45,KO,Thymus,Ifng,22.87,3,2026-03-15,False
+S1548,Mouse74,WT,Spleen,Cd8a,21.05,3,2026-04-27,False
+S1358,Mouse65,WT,Spleen,Cd8a,21.1,2,2026-03-14,False
+S0011,Mouse1,KO,Spleen,Cd4,19.66,2,2026-03-15,False
+S0832,Mouse40,WT,Spleen,Cd8a,21.71,1,2026-11-03,False
+S0033 ,Mouse2,WT,Spleen,Cd4,19.68,3,2026-02-04,False
+s1437,Mouse69,WT,Lymph Node,Foxp3,25.63,3,2026-04-02,False
+S0414,Mouse20,WT,Spleen,Cd8a,19.78,3,2026-03-15,False
+S0581,Mouse28,KO,Spleen,Cd8a,20.73,2,2026-03-28,False
+S1470,Mouse70,HET,Lymph Node,Gapdh,19.53,3,2026-03-26,False
+S1804,Mouse86,WT,Spleen,Gapdh,17.71,1,2026-03-18,False
+S0615,Mouse30,HET,Spleen,Ifng,21.91,3,2026-10-03,False
+S_1046,Mouse50,HET,Thymus,Tnfa,23.74,2,2026-03-15,False
+S1015,Mouse49,HET,Thymus,Foxp3,25.02,1,2026-04-17,False
+S0090 ,Mouse5,KO,Lymph Node,Ifng,21.8,3,2026-09-04,False
+S1613 ,Mouse77,KO,Lymph Node,Tnfa,23.59,2,2026-03-14,False
+S0602 ,Mouse29,WT,Spleen,Cd8a,21.13,2,2026-04-28,False
+S1238,Mouse59,WT,Thymus,Gapdh,18.74,2,2026-03-24,False
+S1743,Mouse83,KO,Thymus,Gapdh,18.97,3,2026-03-23,False
+S0134,Mouse7,WT,Lymph Node,Foxp3,25.9,2,2026-04-10,False
+S1371,Mouse66,KO,Thymus,Ifng,22.41,3,2026-04-01,False
+S0556,Mouse27,WT,Spleen,Cd4,19.87,1,2026-04-14,False
+S1032,Mouse50,HET,Thymus,Il2,22.29,3,2026-03-15,False
+S1486,Mouse71,KO,Spleen,Tnfa,23.41,1,2026-09-03,False
+S0321 ,Mouse16,HET,Spleen,Ifng,22.05,3,2026-04-05,False
+S1679,Mouse80,WT,Spleen,Gapdh,16.84,2,2026-03-24,False
+S1212,Mouse58,HET,Thymus,Cd8a,20.39,3,2026-04-19,False
+s1648,Mouse79,WT,Thymus,Cd4,,1,2026-03-23,False
+S_635,Mouse31,HET,Spleen,Ifng,21.84,2,2026-03-06,False
+S0553 ,Mouse27,WT,Spleen,Foxp3,26.01,1,2026-04-14,False
+s1329,Mouse64,WT,Lymph Node,Ifng,22.52,3,2026-07-04,False
+S1056,Mouse51,HET,Spleen,Ifng,22.78,3,2026-04-29,False
+S1479,Mouse71,KO,Spleen,Foxp3,29.97,3,2026-09-03,False
+S0797,Mouse38,KO,Thymus,Gapdh,18.05,2,2026-04-18,False
+S1578,Mouse76,KO,Thymus,Il2,28.71,3,2026-03-17,False
+S1265,Mouse61,KO,Spleen,Ifng,22.55,2,2026-03-11,False
+S1623,Mouse78,WT,Spleen,Ifng,21.88,3,2026-04-21,False
+S0175,Mouse9,KO,Spleen,Foxp3,25.42,1,2026-04-18,False
+S0767,Mouse37,HET,Spleen,Cd4,19.96,2,2026-03-03,False
+S0246,Mouse12,WT,Thymus,Cd8a,22.11,3,2026-03-04,False
+S1081,Mouse52,KO,Spleen,Cd4,20.64,1,2026-04-17,False
+s1753,Mouse84,KO,Spleen,Cd4,20.07,1,2026-04-02,False
+S0146,Mouse7,WT,Lymph Node,Gapdh,18.71,2,2026-10-04,False
+S0091,Mouse5,KO,Lymph Node,Foxp3,29.26,1,2026-09-04,False
+S0683,Mouse33,HET,Spleen,Cd4,19.69,2,2026-03-17,False
+s0311,Mouse15,WT,Thymus,Tnfa,22.51,2,2026-03-03,False
+S_1384,Mouse66,KO,Thymus,Gapdh,17.44,1,2026-04-01,False
+S0094,Mouse5,KO,Lymph Node,Cd4,20.16,1,2026-04-09,False
+s1488,Mouse71,KO,Spleen,Tnfa,23.48,3,2026-03-09,False
+S0925,Mouse45,KO,Thymus,Il2,,1,2026-03-15,False
+S1602,Mouse77,KO,Lymph Node,Ifng,22.69,3,2026-03-14,False
+S1036,Mouse50,HET,Thymus,Foxp3,25.33,1,2026-03-15,False
+S1401,Mouse67,KO,Lymph Node,Cd8a,21.35,3,2026-06-04,False
+S0244,Mouse12,WT,Thymus,Cd8a,21.99,1,2026-03-04,False
+S1112,Mouse53,WT,Thymus,Gapdh,17.84,2,2026-03-30,False
+S0215,Mouse11,KO,Lymph Node,Ifng,22.41,2,2026-04-17,False
+S_1198,Mouse58,HET,Thymus,Il2,25.33,1,2026-04-19,False
+S0999,Mouse48,WT,Lymph Node,Cd4,19.44,3,2026-04-05,False
+S0854,Mouse41,KO,Spleen,Cd8a,22.08,2,2026-03-27,False
+S0426,Mouse21,WT,Thymus,Ifng,22.24,3,2026-10-03,False
+S_1671,Mouse80,WT,Spleen,Cd4,20.72,3,2026-03-24,False
+S1143,Mouse55,KO,Spleen,Foxp3,25.89,3,2026-03-29,False
+S_1144,Mouse55,KO,Spleen,Cd4,20.33,1,2026-03-29,False
+s0227,Mouse11,KO,Lymph Node,Tnfa,33.7,2,2026-04-17,False
+S1544,Mouse74,WT,Spleen,Cd4,19.32,2,2026-04-27,False
+S0001,Mouse1,KO,Spleen,Il2,24.3,1,2026-03-15,False
+S1419,Mouse68,HET,Thymus,Cd4,20.2,3,2026-04-20,False
+S0402,Mouse20,WT,Spleen,Il2,24.04,3,2026-03-15,False
+S1429,Mouse69,WT,Lymph Node,Il2,25.38,1,2026-02-04,False
+S1104,Mouse53,WT,Thymus,Cd4,20.21,3,2026-03-30,False
+S0085,Mouse5,KO,Lymph Node,Il2,27.18,1,2026-09-04,False
+S0163,Mouse8,WT,Thymus,Tnfa,22.48,1,2026-04-08,False
+S0115,Mouse6,HET,Thymus,Cd4,20.69,1,2026-03-22,False
+S0671,Mouse32,WT,Lymph Node,Gapdh,18.43,2,2026-03-05,False
+S1175,Mouse56,WT,Thymus,Gapdh,17.58,2,2026-04-04,False
+S1449,Mouse69,WT,Lymph Node,Gapdh,18.72,3,2026-04-02,False
+S1816,Mouse87,HET,Spleen,Cd4,19.55,1,2026-03-15,False
+S1393,Mouse67,KO,Lymph Node,Foxp3,28.99,1,2026-04-06,False
+S0890,Mouse43,WT,Spleen,Foxp3,26.13,2,2026-04-27,False
+S0626,Mouse30,HET,Spleen,Tnfa,22.1,2,2026-10-03,False
+S1855,Mouse89,WT,Spleen,Foxp3,25.26,1,2026-03-28,False
+S0953 ,Mouse46,KO,Spleen,Foxp3,25.73,2,2026-03-21,False
+S0808,Mouse39,KO,Spleen,Cd4,19.83,1,2026-04-25,False
+S0259,Mouse13,WT,Thymus,Foxp3,,1,2026-03-06,False
+s0625,Mouse30,HET,Spleen,Tnfa,22.84,1,2026-03-10,False
+S0827 ,Mouse40,WT,Spleen,Foxp3,25.62,2,2026-03-11,False
+S0235,Mouse12,WT,Thymus,Ifng,22.3,1,2026-04-03,False
+S0136,Mouse7,WT,Lymph Node,Cd4,19.47,1,2026-10-04,False
+S_617,Mouse30,HET,Spleen,Foxp3,25.39,2,2026-10-03,False
+S1856,Mouse89,WT,Spleen,Foxp3,25.64,2,2026-03-28,False
+S0837 ,Mouse40,WT,Spleen,Tnfa,22.67,3,2026-11-03,False
+S0843,Mouse41,KO,Spleen,Il2,27.13,3,2026-03-27,False
+S_960,Mouse46,KO,Spleen,Cd8a,20.97,3,2026-03-21,False
+S0593,Mouse29,WT,Spleen,Ifng,22.39,2,2026-04-28,False
+S1315,Mouse63,KO,Spleen,Cd8a,19.47,1,2026-12-04,False
+S1292,Mouse62,HET,Lymph Node,Cd4,20.29,2,2026-03-04,False
+S_344,Mouse17,WT,Spleen,Foxp3,29.47,2,2026-10-03,False
+S1566,Mouse75,HET,Spleen,Cd4,19.73,3,2026-03-10,False
+S1496,Mouse72,KO,Thymus,Ifng,22.35,2,2026-03-28,False
+S0294,Mouse14,HET,Thymus,Gapdh,18.07,3,2026-03-31,False
+S_365,Mouse18,KO,Spleen,Foxp3,25.13,2,2026-04-19,False
+S0179,Mouse9,KO,Spleen,Cd4,19.93,2,2026-04-18,False
+S0660,Mouse32,WT,Lymph Node,Foxp3,27.05,3,2026-05-03,False
+S0997,Mouse48,WT,Lymph Node,Cd4,21.78,1,2026-04-05,False
+S0015,Mouse1,KO,Spleen,Cd8a,21.49,3,2026-03-15,False
+S1111,Mouse53,WT,Thymus,Gapdh,18.77,1,2026-03-30,False
+S1395 ,Mouse67,KO,Lymph Node,Foxp3,29.83,3,2026-06-04,False
+S0166,Mouse8,WT,Thymus,Gapdh,17.54,1,2026-04-08,False
+S1782,Mouse85,KO,Thymus,Tnfa,21.7,3,2026-03-04,False
+S1360,Mouse65,WT,Spleen,Tnfa,23.04,1,2026-03-14,False
+S_60,Mouse3,HET,Thymus,Tnfa,22.75,3,2026-03-04,False
+S0710,Mouse34,HET,Spleen,Tnfa,,2,2026-08-04,True
+S0677,Mouse33,HET,Spleen,Ifng,22.36,2,2026-03-17,False
+S1379,Mouse66,KO,Thymus,Cd8a,21.36,2,2026-01-04,False
+S0781,Mouse38,KO,Thymus,Ifng,22.06,1,2026-04-18,False
+S0425,Mouse21,WT,Thymus,Ifng,28.64,2,2026-10-03,False
+S0293,Mouse14,HET,Thymus,Gapdh,17.99,2,2026-03-31,False
+S1066,Mouse51,HET,Spleen,Tnfa,23.27,1,2026-04-29,False
+s1699,Mouse81,WT,Spleen,Gapdh,17.87,1,2026-03-20,False
+S0330,Mouse16,HET,Spleen,Cd8a,21.15,3,2026-05-04,False
+S0430,Mouse21,WT,Thymus,Cd4,19.44,1,2026-10-03,False
+S1013,Mouse49,HET,Thymus,Ifng,21.94,2,2026-04-17,False
+S0080,Mouse4,HET,Lymph Node,Tnfa,22.69,2,2026-04-02,False
+S1053,Mouse51,HET,Spleen,Il2,24.73,3,2026-04-29,False
+S_938,Mouse45,KO,Thymus,Cd8a,21.8,2,2026-03-15,False
+S_835,Mouse40,WT,Spleen,Tnfa,22.5,1,2026-03-11,False
+S0750,Mouse36,KO,Spleen,Cd8a,20.66,3,2026-03-21,False
+S0891,Mouse43,WT,Spleen,Foxp3,26.15,3,2026-04-27,False
+S0255,Mouse13,WT,Thymus,Il2,22.8,3,2026-06-03,False
+S1645,Mouse79,WT,Thymus,Foxp3,27.08,1,2026-03-23,False
+S1483,Mouse71,KO,Spleen,Cd8a,29.82,1,2026-09-03,False
+S_1854,Mouse89,WT,Spleen,Ifng,22.97,3,2026-03-28,False
+S1408,Mouse68,HET,Thymus,Il2,,1,2026-04-20,False
+S1338,Mouse64,WT,Lymph Node,Cd8a,20.98,3,2026-07-04,False
+S1109,Mouse53,WT,Thymus,Tnfa,23.43,2,2026-03-30,False
+S0137,Mouse7,WT,Lymph Node,Cd4,19.79,2,2026-04-10,False
+S1136,Mouse55,KO,Spleen,Il2,22.91,2,2026-03-29,False
+s0853,Mouse41,KO,Spleen,Cd8a,20.98,1,2026-03-27,False
+S1203,Mouse58,HET,Thymus,Ifng,21.52,3,2026-04-19,False
+S0724,Mouse35,KO,Lymph Node,Cd4,19.56,1,2026-03-30,False
+s0860,Mouse41,KO,Spleen,Gapdh,17.68,2,2026-03-27,False
+S0970,Mouse47,KO,Spleen,Ifng,21.59,1,2026-04-18,False
+S0497,Mouse24,WT,Thymus,Cd8a,20.65,2,2026-04-29,False
+S0951,Mouse46,KO,Spleen,Ifng,21.73,3,2026-03-21,False
+S0806,Mouse39,KO,Spleen,Foxp3,25.69,2,2026-04-25,False
+S0130,Mouse7,WT,Lymph Node,Ifng,21.27,1,2026-04-10,False
+S0338,Mouse17,WT,Spleen,Il2,28.32,2,2026-10-03,False
+S1889,Mouse90,KO,Thymus,Gapdh,17.53,2,2026-05-03,False
+S0609,Mouse29,WT,Spleen,Gapdh,17.41,3,2026-04-28,False
+S1149,Mouse55,KO,Spleen,Cd8a,21.58,3,2026-03-29,False
+S0196,Mouse10,WT,Spleen,Foxp3,26.63,1,2026-10-04,False
+S1251,Mouse60,HET,Thymus,Cd4,20.42,3,2026-03-01,False
+S1293,Mouse62,HET,Lymph Node,Cd4,20.04,3,2026-04-03,False
+S1871,Mouse90,KO,Thymus,Il2,27.84,2,2026-05-03,False
+S0910,Mouse44,KO,Spleen,Foxp3,27.13,1,2026-03-11,False
+S0585,Mouse28,KO,Spleen,Tnfa,23.52,3,2026-03-28,False
+S_104,Mouse5,KO,Lymph Node,Gapdh,18.1,2,2026-09-04,False
+S1755,Mouse84,KO,Spleen,Cd4,20.03,3,2026-02-04,False
+S1771,Mouse85,KO,Thymus,Foxp3,38.33,1,2026-03-04,False
+S0720,Mouse35,KO,Lymph Node,Ifng,21.23,3,2026-03-30,False
+S0885,Mouse43,WT,Spleen,Il2,23.18,3,2026-04-27,False
+S0777,Mouse37,HET,Spleen,Gapdh,,3,2026-03-03,True
+S_850,Mouse41,KO,Spleen,Cd4,19.52,1,2026-03-27,False
+S0895,Mouse43,WT,Spleen,Cd8a,21.36,1,2026-04-27,False
+S0228,Mouse11,KO,Lymph Node,Tnfa,23.5,3,2026-04-17,False
+S1784,Mouse85,KO,Thymus,Gapdh,18.65,2,2026-04-03,False
+S_1326,Mouse64,WT,Lymph Node,Il2,23.9,3,2026-04-07,False
+S1300,Mouse62,HET,Lymph Node,Gapdh,18.73,1,2026-04-03,False
+S0127,Mouse7,WT,Lymph Node,Il2,24.01,1,2026-10-04,False
+S0406,Mouse20,WT,Spleen,Foxp3,26.58,1,2026-03-15,False
+S0776,Mouse37,HET,Spleen,Gapdh,18.41,2,2026-03-03,False
+s0822,Mouse40,WT,Spleen,Il2,24.23,3,2026-03-11,False
+S0712,Mouse34,HET,Spleen,Gapdh,18.43,1,2026-04-08,False
+S1792,Mouse86,WT,Spleen,Foxp3,26.92,1,2026-03-18,False
+S1061,Mouse51,HET,Spleen,Cd4,20.03,2,2026-04-29,False
+S1164,Mouse56,WT,Thymus,Foxp3,26.26,3,2026-04-04,False
+S0304,Mouse15,WT,Thymus,Cd4,20.01,1,2026-03-03,False
+S0268,Mouse13,WT,Thymus,Tnfa,22.77,1,2026-06-03,False
+S0546,Mouse26,WT,Lymph Node,Gapdh,17.8,3,2026-05-04,False
+S0213,Mouse11,KO,Lymph Node,Il2,,3,2026-04-17,True
+S0897,Mouse43,WT,Spleen,Cd8a,20.73,3,2026-04-27,False
+S1493,Mouse72,KO,Thymus,Il2,24.29,2,2026-03-28,False
+S1223,Mouse59,WT,Thymus,Ifng,,2,2026-03-24,True
+S0917 ,Mouse44,KO,Spleen,Cd8a,21.67,2,2026-11-03,False
+S0676,Mouse33,HET,Spleen,Ifng,,1,2026-03-17,True
+S1290,Mouse62,HET,Lymph Node,Foxp3,26.32,3,2026-04-03,False
+S0815,Mouse39,KO,Spleen,Tnfa,23.93,2,2026-04-25,False
+S1266,Mouse61,KO,Spleen,Ifng,21.83,3,2026-03-11,False
+S0343,Mouse17,WT,Spleen,Foxp3,29.09,1,2026-10-03,False
+S0550,Mouse27,WT,Spleen,Ifng,21.4,1,2026-04-14,False
+S1411,Mouse68,HET,Thymus,Ifng,22.5,1,2026-04-20,False
+S1215,Mouse58,HET,Thymus,Tnfa,23.02,3,2026-04-19,False
+S0967,Mouse47,KO,Spleen,Il2,27.63,1,2026-04-18,False
+S1231,Mouse59,WT,Thymus,Cd8a,21.32,1,2026-03-24,False
+s0296,Mouse15,WT,Thymus,Il2,23.65,2,2026-03-03,False
+S0696,Mouse34,HET,Spleen,Il2,27.74,3,2026-04-08,False
+S1453,Mouse70,HET,Lymph Node,Ifng,21.53,1,2026-03-26,False
+S0074,Mouse4,HET,Lymph Node,Cd4,19.82,2,2026-02-04,False
+S0606,Mouse29,WT,Spleen,Tnfa,23.81,3,2026-04-28,False
+S0105 ,Mouse5,KO,Lymph Node,Gapdh,18.15,3,2026-09-04,False
+S0646,Mouse31,HET,Spleen,Tnfa,22.67,1,2026-06-03,False
+S1405,Mouse67,KO,Lymph Node,Gapdh,18.13,1,2026-06-04,False
+S1859,Mouse89,WT,Spleen,Cd4,19.51,2,2026-03-28,False
+S1041,Mouse50,HET,Thymus,Cd4,19.07,3,2026-03-15,False
+S0440,Mouse21,WT,Thymus,Gapdh,17.38,2,2026-03-10,False
+S_1020,Mouse49,HET,Thymus,Cd4,19.25,3,2026-04-17,False
+S_92,Mouse5,KO,Lymph Node,Foxp3,28.62,2,2026-09-04,False
+s1113,Mouse53,WT,Thymus,Gapdh,18.07,3,2026-03-30,False
+S1666,Mouse80,WT,Spleen,Foxp3,26.74,1,2026-03-24,False
+S0909 ,Mouse44,KO,Spleen,Ifng,21.67,3,2026-03-11,False
+S_1475,Mouse71,KO,Spleen,Ifng,23.24,2,2026-03-09,False
+S0239,Mouse12,WT,Thymus,Foxp3,26.19,2,2026-03-04,False
+S1617,Mouse77,KO,Lymph Node,Gapdh,17.84,3,2026-03-14,False
+S0943,Mouse45,KO,Thymus,Gapdh,17.59,1,2026-03-15,False
+S1271 ,Mouse61,KO,Spleen,Cd4,19.9,2,2026-11-03,False
+S0939,Mouse45,KO,Thymus,Cd8a,21.12,3,2026-03-15,False
+S1182,Mouse57,WT,Thymus,Ifng,22.54,3,2026-04-13,False
+S1504,Mouse72,KO,Thymus,Cd8a,,1,2026-03-28,True
+S0006,Mouse1,KO,Spleen,Ifng,21.86,3,2026-03-15,False
+S1723,Mouse83,KO,Thymus,Il2,27.94,1,2026-03-23,False
+S0966,Mouse46,KO,Spleen,Gapdh,18.02,3,2026-03-21,False
+S0019,Mouse1,KO,Spleen,Gapdh,17.58,1,2026-03-15,False
+S1431,Mouse69,WT,Lymph Node,Il2,22.86,3,2026-02-04,False
+S_122,Mouse6,HET,Thymus,Tnfa,24.31,2,2026-03-22,False
+S0662,Mouse32,WT,Lymph Node,Cd4,20.76,2,2026-05-03,False
+S1601,Mouse77,KO,Lymph Node,Ifng,21.74,2,2026-03-14,False
+S0275,Mouse14,HET,Thymus,Il2,23.91,2,2026-03-31,False
+S0434,Mouse21,WT,Thymus,Cd8a,21.57,2,2026-03-10,False
+S0812,Mouse39,KO,Spleen,Cd8a,20.54,2,2026-04-25,False
+S1301 ,Mouse62,HET,Lymph Node,Gapdh,17.87,2,2026-04-03,False
+s1336,Mouse64,WT,Lymph Node,Cd8a,22.24,1,2026-04-07,False
+S1772,Mouse85,KO,Thymus,Foxp3,29.05,2,2026-03-04,False
+S1793,Mouse86,WT,Spleen,Foxp3,26.55,2,2026-03-18,False
+S1571,Mouse75,HET,Spleen,Tnfa,23.23,2,2026-10-03,False
+S0182,Mouse9,KO,Spleen,Cd8a,21.47,2,2026-04-18,False
+S0185,Mouse9,KO,Spleen,Tnfa,22.44,2,2026-04-18,False
+S0407,Mouse20,WT,Spleen,Foxp3,26.39,2,2026-03-15,False
+S0866,Mouse42,KO,Thymus,Ifng,21.78,2,2026-12-04,False
+S_521,Mouse25,KO,Thymus,Tnfa,23.6,2,2026-03-21,False
+S1004,Mouse48,WT,Lymph Node,Tnfa,23.13,2,2026-04-05,False
+S0381,Mouse19,KO,Lymph Node,Il2,27.43,3,2026-11-03,False
+S1435 ,Mouse69,WT,Lymph Node,Foxp3,26.2,1,2026-02-04,False
+S_1394,Mouse67,KO,Lymph Node,Foxp3,29.72,2,2026-06-04,False
+S1425 ,Mouse68,HET,Thymus,Tnfa,23.02,3,2026-04-20,False
+S0428,Mouse21,WT,Thymus,Foxp3,26.4,2,2026-03-10,False
+S0079,Mouse4,HET,Lymph Node,Tnfa,23.89,1,2026-04-02,False
+S1598,Mouse77,KO,Lymph Node,Il2,29.42,2,2026-03-14,False
+S1010 ,Mouse49,HET,Thymus,Il2,23.46,2,2026-04-17,False
+S1867,Mouse89,WT,Spleen,Gapdh,17.95,1,2026-03-28,False
+S0608,Mouse29,WT,Spleen,Gapdh,17.69,2,2026-04-28,False
+S1693,Mouse81,WT,Spleen,Cd8a,21.08,1,2026-03-20,False
+S1886,Mouse90,KO,Thymus,Tnfa,23.3,2,2026-03-05,False
+S1730,Mouse83,KO,Thymus,Foxp3,30.2,2,2026-03-23,False
+S1058,Mouse51,HET,Spleen,Foxp3,26.23,2,2026-04-29,False
+S1441 ,Mouse69,WT,Lymph Node,Cd8a,21.5,1,2026-04-02,False
+S_1515,Mouse73,WT,Lymph Node,Il2,23.78,3,2026-04-14,False
+S1586 ,Mouse76,KO,Thymus,Cd4,19.52,2,2026-03-17,False
+S1092,Mouse52,KO,Spleen,Gapdh,18.27,3,2026-04-17,False
+S1561,Mouse75,HET,Spleen,Foxp3,,1,2026-10-03,False
+s1102,Mouse53,WT,Thymus,Cd4,20.86,1,2026-03-30,False
+S1130,Mouse54,KO,Thymus,Tnfa,23.68,2,2026-04-28,False
+S1236,Mouse59,WT,Thymus,Tnfa,22.46,3,2026-03-24,False
+S1676,Mouse80,WT,Spleen,Tnfa,23.47,2,2026-03-24,False
+S0959,Mouse46,KO,Spleen,Cd8a,20.42,2,2026-03-21,False
+S0560,Mouse27,WT,Spleen,Cd8a,21.46,2,2026-04-14,False
+S0847,Mouse41,KO,Spleen,Foxp3,29.9,1,2026-03-27,False
+S0691,Mouse33,HET,Spleen,Gapdh,16.75,1,2026-03-17,False
+S1520,Mouse73,WT,Lymph Node,Foxp3,25.97,2,2026-04-14,False
+S1836,Mouse88,KO,Thymus,Foxp3,25.58,3,2026-01-04,False
+S1803,Mouse86,WT,Spleen,Tnfa,23.91,3,2026-03-18,False
+S0437,Mouse21,WT,Thymus,Tnfa,22.68,2,2026-10-03,False
+s0491,Mouse24,WT,Thymus,Foxp3,26.03,2,2026-04-29,False
+S1745,Mouse84,KO,Spleen,Il2,24.98,2,2026-04-02,False
+S1630,Mouse78,WT,Spleen,Cd8a,21.0,1,2026-04-21,False
+S1388,Mouse67,KO,Lymph Node,Il2,27.52,2,2026-06-04,False
+S0070,Mouse4,HET,Lymph Node,Foxp3,26.94,1,2026-02-04,False
+S1573,Mouse75,HET,Spleen,Gapdh,17.95,1,2026-03-10,False
+S_809,Mouse39,KO,Spleen,Cd4,19.19,2,2026-04-25,False
+S1185,Mouse57,WT,Thymus,Foxp3,25.6,3,2026-04-13,False
+S0012,Mouse1,KO,Spleen,Cd4,19.45,3,2026-03-15,False
+S0145 ,Mouse7,WT,Lymph Node,Gapdh,17.14,1,2026-04-10,False
+S0918,Mouse44,KO,Spleen,Cd8a,28.15,3,2026-11-03,False
+S1542,Mouse74,WT,Spleen,Foxp3,29.49,3,2026-04-27,False
+S1452,Mouse70,HET,Lymph Node,Il2,24.01,3,2026-03-26,False
+S_640,Mouse31,HET,Spleen,Cd4,19.99,1,2026-03-06,False
+S0177,Mouse9,KO,Spleen,Foxp3,26.03,3,2026-04-18,False
+S0995,Mouse48,WT,Lymph Node,Foxp3,26.37,2,2026-04-05,False
+S0441,Mouse21,WT,Thymus,Gapdh,17.67,3,2026-03-10,False
+S0522,Mouse25,KO,Thymus,Tnfa,22.65,3,2026-03-21,False
+S1875,Mouse90,KO,Thymus,Ifng,22.7,3,2026-03-05,False
+S1840 ,Mouse88,KO,Thymus,Cd8a,21.68,1,2026-01-04,False
+S_1005,Mouse48,WT,Lymph Node,Tnfa,23.65,3,2026-04-05,False
+S1256,Mouse60,HET,Thymus,Tnfa,23.3,2,2026-03-01,False
+S1235,Mouse59,WT,Thymus,Tnfa,22.93,2,2026-03-24,False
+S0144 ,Mouse7,WT,Lymph Node,Tnfa,22.88,3,2026-04-10,False
+S0754,Mouse36,KO,Spleen,Gapdh,17.06,1,2026-03-21,False
+S0520 ,Mouse25,KO,Thymus,Tnfa,22.77,1,2026-03-21,False
+S_1323,Mouse63,KO,Spleen,Gapdh,18.53,3,2026-04-12,False
+S0823,Mouse40,WT,Spleen,Ifng,22.1,1,2026-03-11,False
+S0429,Mouse21,WT,Thymus,Foxp3,26.22,3,2026-10-03,False
+S0613,Mouse30,HET,Spleen,Ifng,20.98,1,2026-10-03,False
+S1506,Mouse72,KO,Thymus,Cd8a,21.21,3,2026-03-28,False
+S1033,Mouse50,HET,Thymus,Ifng,22.69,1,2026-03-15,False
+S0157,Mouse8,WT,Thymus,Cd4,19.55,1,2026-04-08,False
+S0540,Mouse26,WT,Lymph Node,Cd8a,20.74,3,2026-04-05,False
+S1531,Mouse73,WT,Lymph Node,Gapdh,18.21,1,2026-04-14,False
+S1461,Mouse70,HET,Lymph Node,Cd4,21.04,3,2026-03-26,False
+S1291,Mouse62,HET,Lymph Node,Cd4,19.96,1,2026-04-03,False
+S0462,Mouse22,WT,Spleen,Gapdh,18.67,3,2026-03-03,False
+S0577,Mouse28,KO,Spleen,Cd4,20.62,1,2026-03-28,False
+S1363,Mouse65,WT,Spleen,Gapdh,17.86,1,2026-03-14,False
+S0256,Mouse13,WT,Thymus,Ifng,21.22,1,2026-03-06,False
+S0980,Mouse47,KO,Spleen,Cd8a,20.61,2,2026-04-18,False
+s1186,Mouse57,WT,Thymus,Cd4,20.17,1,2026-04-13,False
+S1007,Mouse48,WT,Lymph Node,Gapdh,18.56,2,2026-05-04,False
+S1522,Mouse73,WT,Lymph Node,Cd4,19.77,1,2026-04-14,False
+S0561,Mouse27,WT,Spleen,Cd8a,20.11,3,2026-04-14,False
+S0209,Mouse10,WT,Spleen,Gapdh,17.54,2,2026-10-04,False
+S0911,Mouse44,KO,Spleen,Foxp3,25.13,2,2026-11-03,False
+S1312 ,Mouse63,KO,Spleen,Cd4,20.71,1,2026-04-12,False
+s0002,Mouse1,KO,Spleen,Il2,23.92,2,2026-03-15,False
+S1366 ,Mouse66,KO,Thymus,Il2,27.23,1,2026-04-01,False
+S0270,Mouse13,WT,Thymus,Tnfa,23.4,3,2026-06-03,False
+S0266,Mouse13,WT,Thymus,Cd8a,20.64,2,2026-06-03,False
+S0915,Mouse44,KO,Spleen,Cd4,24.8,3,2026-11-03,False
+S_231,Mouse11,KO,Lymph Node,Gapdh,,3,2026-04-17,True
+S_1870,Mouse90,KO,Thymus,Il2,28.46,1,2026-03-05,False
+S1120,Mouse54,KO,Thymus,Foxp3,29.32,1,2026-04-28,False
+S1865,Mouse89,WT,Spleen,Tnfa,,2,2026-03-28,False
+S0865,Mouse42,KO,Thymus,Ifng,22.35,1,2026-04-12,False
+S1067,Mouse51,HET,Spleen,Tnfa,22.65,2,2026-04-29,False
+S0874,Mouse42,KO,Thymus,Cd8a,21.39,1,2026-12-04,False
+S_1704,Mouse82,KO,Thymus,Il2,27.69,3,2026-03-16,False
+s0399,Mouse19,KO,Lymph Node,Gapdh,18.93,3,2026-11-03,False
+S1653,Mouse79,WT,Thymus,Cd8a,20.7,3,2026-03-23,False
+S0046,Mouse3,HET,Thymus,Ifng,,1,2026-03-04,False
+S0162,Mouse8,WT,Thymus,Cd8a,21.56,3,2026-08-04,False
+S_992,Mouse48,WT,Lymph Node,Ifng,27.53,2,2026-05-04,False
+S0728,Mouse35,KO,Lymph Node,Cd8a,20.16,2,2026-03-30,False
+S0630,Mouse30,HET,Spleen,Gapdh,17.97,3,2026-03-10,False
+S0289,Mouse14,HET,Thymus,Tnfa,22.5,1,2026-03-31,False
+S1614,Mouse77,KO,Lymph Node,Tnfa,23.39,3,2026-03-14,False
+S1060,Mouse51,HET,Spleen,Cd4,19.67,1,2026-04-29,False
+S0576,Mouse28,KO,Spleen,Foxp3,29.7,3,2026-03-28,False
+S0851,Mouse41,KO,Spleen,Cd4,19.17,2,2026-03-27,False
+s1340,Mouse64,WT,Lymph Node,Tnfa,22.48,2,2026-07-04,False
+S0912,Mouse44,KO,Spleen,Foxp3,24.68,3,2026-11-03,False
+S1255 ,Mouse60,HET,Thymus,Tnfa,21.9,1,2026-01-03,False
+S1726,Mouse83,KO,Thymus,Ifng,21.72,1,2026-03-23,False
+S0933,Mouse45,KO,Thymus,Foxp3,29.71,3,2026-03-15,False
+S1101,Mouse53,WT,Thymus,Foxp3,26.2,3,2026-03-30,False
+S1658,Mouse79,WT,Thymus,Gapdh,17.75,2,2026-03-23,False
+S_1208,Mouse58,HET,Thymus,Cd4,20.98,2,2026-04-19,False
+S0248,Mouse12,WT,Thymus,Tnfa,22.23,2,2026-04-03,False
+S0477,Mouse23,KO,Spleen,Cd8a,21.91,3,2026-04-29,False
+S1695,Mouse81,WT,Spleen,Cd8a,21.15,3,2026-03-20,False
+S0086,Mouse5,KO,Lymph Node,Il2,27.81,2,2026-09-04,False
+S0470 ,Mouse23,KO,Spleen,Foxp3,25.35,2,2026-04-29,False
+S0226,Mouse11,KO,Lymph Node,Tnfa,,1,2026-04-17,False
+S0775,Mouse37,HET,Spleen,Gapdh,17.98,1,2026-03-03,False
+S0332,Mouse16,HET,Spleen,Tnfa,23.12,2,2026-04-05,False
+S0234 ,Mouse12,WT,Thymus,Il2,23.93,3,2026-04-03,False
+S0589,Mouse29,WT,Spleen,Il2,27.04,1,2026-04-28,False
+s0476,Mouse23,KO,Spleen,Cd8a,20.48,2,2026-04-29,False
+S1285 ,Mouse62,HET,Lymph Node,Ifng,21.36,1,2026-04-03,False
+S1773,Mouse85,KO,Thymus,Foxp3,29.79,3,2026-04-03,False
+S0600,Mouse29,WT,Spleen,Cd4,20.44,3,2026-04-28,False
+S0422,Mouse21,WT,Thymus,Il2,24.48,2,2026-10-03,False
+S1712,Mouse82,KO,Thymus,Cd4,20.06,2,2026-03-16,False
+S0183,Mouse9,KO,Spleen,Cd8a,21.63,3,2026-04-18,False
+S0989 ,Mouse48,WT,Lymph Node,Il2,25.25,2,2026-05-04,False
+S_1001,Mouse48,WT,Lymph Node,Cd8a,20.32,2,2026-05-04,False
+S1642 ,Mouse79,WT,Thymus,Ifng,22.36,1,2026-03-23,False
+S1357,Mouse65,WT,Spleen,Cd8a,20.62,1,2026-03-14,False
+S1463,Mouse70,HET,Lymph Node,Cd8a,21.13,2,2026-03-26,False
+S0050,Mouse3,HET,Thymus,Foxp3,26.08,2,2026-03-04,False
+s1779,Mouse85,KO,Thymus,Cd8a,20.47,3,2026-04-03,False
+S1030,Mouse50,HET,Thymus,Il2,23.78,1,2026-03-15,False
+S0530,Mouse26,WT,Lymph Node,Ifng,21.88,2,2026-05-04,False
+S1259,Mouse60,HET,Thymus,Gapdh,18.23,2,2026-01-03,False
+S0487 ,Mouse24,WT,Thymus,Ifng,21.61,1,2026-04-29,False
+S1872,Mouse90,KO,Thymus,Il2,27.32,3,2026-03-05,False
+S0498,Mouse24,WT,Thymus,Cd8a,21.45,3,2026-04-29,False
+S1647,Mouse79,WT,Thymus,Foxp3,25.82,3,2026-03-23,False
+S0107,Mouse6,HET,Thymus,Il2,22.85,2,2026-03-22,False
+S_444,Mouse22,WT,Spleen,Il2,24.02,3,2026-03-03,False
+S1513 ,Mouse73,WT,Lymph Node,Il2,24.62,1,2026-04-14,False
+S0647,Mouse31,HET,Spleen,Tnfa,22.57,2,2026-03-06,False
+S_1037,Mouse50,HET,Thymus,Foxp3,26.48,2,2026-03-15,False
+S0727,Mouse35,KO,Lymph Node,Cd8a,20.63,1,2026-03-30,False
+s0191,Mouse10,WT,Spleen,Il2,24.03,2,2026-10-04,False
+S0283,Mouse14,HET,Thymus,Cd4,20.21,1,2026-03-31,False
+S_30,Mouse2,WT,Spleen,Foxp3,25.62,3,2026-02-04,False
+s0170,Mouse9,KO,Spleen,Il2,24.32,2,2026-04-18,False
+S1002,Mouse48,WT,Lymph Node,Cd8a,21.34,3,2026-05-04,False
+S1205 ,Mouse58,HET,Thymus,Foxp3,27.01,2,2026-04-19,False
+S0101,Mouse5,KO,Lymph Node,Tnfa,22.9,2,2026-04-09,False
+S0198,Mouse10,WT,Spleen,Foxp3,25.44,3,2026-10-04,False
+S0496,Mouse24,WT,Thymus,Cd8a,20.46,1,2026-04-29,False
+S1746,Mouse84,KO,Spleen,Il2,24.45,3,2026-04-02,False
+S0648,Mouse31,HET,Spleen,Tnfa,23.06,3,2026-06-03,False
+S0988 ,Mouse48,WT,Lymph Node,Il2,24.12,1,2026-05-04,False
+S0045,Mouse3,HET,Thymus,Il2,24.46,3,2026-03-04,False
+S1833,Mouse88,KO,Thymus,Ifng,,3,2026-01-04,True
+S0711,Mouse34,HET,Spleen,Tnfa,24.2,3,2026-08-04,False
+S0374,Mouse18,KO,Spleen,Tnfa,23.58,2,2026-04-19,False
+S0679,Mouse33,HET,Spleen,Foxp3,26.2,1,2026-03-17,False
+S0567,Mouse27,WT,Spleen,Gapdh,18.11,3,2026-04-14,False
+S1673,Mouse80,WT,Spleen,Cd8a,,2,2026-03-24,True
+S0848,Mouse41,KO,Spleen,Foxp3,30.71,2,2026-03-27,False
+S0461 ,Mouse22,WT,Spleen,Gapdh,19.85,2,2026-03-03,False
+S1438,Mouse69,WT,Lymph Node,Cd4,20.29,1,2026-02-04,False
+S_1156,Mouse56,WT,Thymus,Il2,23.05,1,2026-04-04,False
+S0040,Mouse2,WT,Spleen,Gapdh,18.72,1,2026-02-04,False
+S0435,Mouse21,WT,Thymus,Cd8a,20.41,3,2026-10-03,False
+S0974,Mouse47,KO,Spleen,Foxp3,29.88,2,2026-04-18,False
+S1240,Mouse60,HET,Thymus,Il2,24.37,1,2026-01-03,False
+S1008,Mouse48,WT,Lymph Node,Gapdh,18.52,3,2026-05-04,False
+S1580,Mouse76,KO,Thymus,Ifng,21.38,2,2026-03-17,False
+S1591,Mouse76,KO,Thymus,Tnfa,23.19,1,2026-03-17,False
+S_1787,Mouse86,WT,Spleen,Il2,23.17,2,2026-03-18,False
+S1499,Mouse72,KO,Thymus,Foxp3,25.79,2,2026-03-28,False
+S0457,Mouse22,WT,Spleen,Tnfa,23.99,1,2026-03-03,False
+S0261,Mouse13,WT,Thymus,Foxp3,26.04,3,2026-03-06,False
+S0036,Mouse2,WT,Spleen,Cd8a,21.23,3,2026-02-04,False
+S0828,Mouse40,WT,Spleen,Foxp3,25.68,3,2026-03-11,False
+S0310 ,Mouse15,WT,Thymus,Tnfa,,1,2026-03-03,True
+S0277,Mouse14,HET,Thymus,Ifng,22.17,1,2026-03-31,False
+S0637,Mouse31,HET,Spleen,Foxp3,27.54,1,2026-03-06,False
+S_655,Mouse32,WT,Lymph Node,Ifng,21.79,1,2026-05-03,False
+S0623,Mouse30,HET,Spleen,Cd8a,20.8,2,2026-03-10,False
+S0845,Mouse41,KO,Spleen,Ifng,22.17,2,2026-03-27,False
+S0394,Mouse19,KO,Lymph Node,Tnfa,22.33,1,2026-11-03,False
+S1770,Mouse85,KO,Thymus,Ifng,,3,2026-04-03,True
+S0108,Mouse6,HET,Thymus,Il2,23.98,3,2026-03-22,False
+S_350,Mouse17,WT,Spleen,Cd8a,20.49,2,2026-03-10,False
+S0525,Mouse25,KO,Thymus,Gapdh,18.32,3,2026-03-21,False
+S0785,Mouse38,KO,Thymus,Foxp3,29.63,2,2026-04-18,False
+S0048 ,Mouse3,HET,Thymus,Ifng,21.47,3,2026-03-04,False
+S0204,Mouse10,WT,Spleen,Cd8a,21.68,3,2026-10-04,False
+s1656,Mouse79,WT,Thymus,Tnfa,22.5,3,2026-03-23,False
+s0022,Mouse2,WT,Spleen,Il2,24.36,1,2026-04-02,False
+S_403,Mouse20,WT,Spleen,Ifng,23.24,1,2026-03-15,False
+S1108,Mouse53,WT,Thymus,Tnfa,23.34,1,2026-03-30,False
+S1155,Mouse55,KO,Spleen,Gapdh,17.64,3,2026-03-29,False
+s1440,Mouse69,WT,Lymph Node,Cd4,19.99,3,2026-02-04,False
+S0990,Mouse48,WT,Lymph Node,Il2,23.59,3,2026-05-04,False
+S0742 ,Mouse36,KO,Spleen,Foxp3,29.44,1,2026-03-21,False
+S1722,Mouse82,KO,Thymus,Gapdh,18.13,3,2026-03-16,False
+S1311,Mouse63,KO,Spleen,Foxp3,29.76,3,2026-12-04,False
+S1148,Mouse55,KO,Spleen,Cd8a,20.41,2,2026-03-29,False
+S0034,Mouse2,WT,Spleen,Cd8a,21.0,1,2026-02-04,False
+S0788,Mouse38,KO,Thymus,Cd4,19.46,2,2026-04-18,False
+S_1541,Mouse74,WT,Spleen,Foxp3,29.18,2,2026-04-27,False
+S0924,Mouse44,KO,Spleen,Gapdh,17.58,3,2026-11-03,False
+S1044,Mouse50,HET,Thymus,Cd8a,21.15,3,2026-03-15,False
+S1830,Mouse88,KO,Thymus,Il2,23.34,3,2026-01-04,False
+S_1244,Mouse60,HET,Thymus,Ifng,22.09,2,2026-01-03,False
+S0580 ,Mouse28,KO,Spleen,Cd8a,20.41,1,2026-03-28,False
+S0482,Mouse23,KO,Spleen,Gapdh,17.17,2,2026-04-29,False
+S0932,Mouse45,KO,Thymus,Foxp3,30.17,2,2026-03-15,False
+S_357,Mouse17,WT,Spleen,Gapdh,19.37,3,2026-03-10,False
+S1686,Mouse81,WT,Spleen,Ifng,22.5,3,2026-03-20,False
+S0760,Mouse37,HET,Spleen,Ifng,21.2,1,2026-03-03,False
+S0093 ,Mouse5,KO,Lymph Node,Foxp3,29.68,3,2026-04-09,False
+S1176,Mouse56,WT,Thymus,Gapdh,17.6,3,2026-04-04,False
+S1416,Mouse68,HET,Thymus,Foxp3,26.44,3,2026-04-20,False
+S1342,Mouse64,WT,Lymph Node,Gapdh,,1,2026-07-04,True
+S1473,Mouse71,KO,Spleen,Il2,28.43,3,2026-03-09,False
+s0804,Mouse39,KO,Spleen,Ifng,22.87,3,2026-04-25,False
+S0746,Mouse36,KO,Spleen,Cd4,21.06,2,2026-03-21,False
+S1547,Mouse74,WT,Spleen,Cd8a,21.15,2,2026-04-27,False
+S0280,Mouse14,HET,Thymus,Foxp3,25.7,1,2026-03-31,False
+S1608,Mouse77,KO,Lymph Node,Cd4,20.65,3,2026-03-14,False
+S0765,Mouse37,HET,Spleen,Foxp3,26.5,3,2026-03-03,False
+S0605 ,Mouse29,WT,Spleen,Tnfa,24.13,2,2026-04-28,False
+S1883,Mouse90,KO,Thymus,Cd8a,22.04,2,2026-05-03,False
+S1374,Mouse66,KO,Thymus,Foxp3,,3,2026-01-04,True
+S1399,Mouse67,KO,Lymph Node,Cd8a,19.96,1,2026-04-06,False
+S0401,Mouse20,WT,Spleen,Il2,24.71,2,2026-03-15,False
+S1729,Mouse83,KO,Thymus,Foxp3,29.71,1,2026-03-23,False
+S0258,Mouse13,WT,Thymus,Ifng,22.79,3,2026-06-03,False
+S0945,Mouse45,KO,Thymus,Gapdh,17.98,3,2026-03-15,False
+S1097,Mouse53,WT,Thymus,Ifng,21.54,2,2026-03-30,False
+S1220,Mouse59,WT,Thymus,Il2,24.5,2,2026-03-24,False
+S_1508,Mouse72,KO,Thymus,Tnfa,,2,2026-03-28,True
+S1162,Mouse56,WT,Thymus,Foxp3,26.19,1,2026-04-04,False
+S0495,Mouse24,WT,Thymus,Cd4,19.86,3,2026-04-29,False
+S0773,Mouse37,HET,Spleen,Tnfa,,2,2026-03-03,False
+S0551,Mouse27,WT,Spleen,Ifng,20.88,2,2026-04-14,False
+S1487,Mouse71,KO,Spleen,Tnfa,21.34,2,2026-03-09,False
+S0202,Mouse10,WT,Spleen,Cd8a,23.31,1,2026-04-10,False
+S0313,Mouse15,WT,Thymus,Gapdh,17.4,1,2026-03-03,False
+S0291,Mouse14,HET,Thymus,Tnfa,23.45,3,2026-03-31,False
+S_1214,Mouse58,HET,Thymus,Tnfa,22.27,2,2026-04-19,False
+S0764,Mouse37,HET,Spleen,Foxp3,,2,2026-03-03,True
+S1137,Mouse55,KO,Spleen,Il2,25.4,3,2026-03-29,False
+s0950,Mouse46,KO,Spleen,Ifng,21.61,2,2026-03-21,False
+S0184,Mouse9,KO,Spleen,Tnfa,22.79,1,2026-04-18,False
+S1177,Mouse57,WT,Thymus,Il2,23.16,1,2026-04-13,False
+S1849,Mouse89,WT,Spleen,Il2,23.66,1,2026-03-28,False
+S1350,Mouse65,WT,Spleen,Ifng,21.76,3,2026-03-14,False
+S1728,Mouse83,KO,Thymus,Ifng,22.02,3,2026-03-23,False
+S1069,Mouse51,HET,Spleen,Gapdh,18.08,1,2026-04-29,False
+S1469,Mouse70,HET,Lymph Node,Gapdh,17.67,2,2026-03-26,False
+S1812,Mouse87,HET,Spleen,Ifng,22.46,3,2026-03-15,False
+S1031,Mouse50,HET,Thymus,Il2,24.46,2,2026-03-15,False
+S0251,Mouse12,WT,Thymus,Gapdh,17.99,2,2026-03-04,False
+S_824,Mouse40,WT,Spleen,Ifng,22.3,2,2026-03-11,False
+S1100,Mouse53,WT,Thymus,Foxp3,25.85,2,2026-03-30,False
+S1537 ,Mouse74,WT,Spleen,Ifng,21.5,1,2026-04-27,False
+S0941,Mouse45,KO,Thymus,Tnfa,22.95,2,2026-03-15,False
+S_392,Mouse19,KO,Lymph Node,Cd8a,21.31,2,2026-11-03,False
+S1457,Mouse70,HET,Lymph Node,Foxp3,25.47,2,2026-03-26,False
+S_1093,Mouse53,WT,Thymus,Il2,23.35,1,2026-03-30,False
+S1192,Mouse57,WT,Thymus,Tnfa,23.25,1,2026-04-13,False
+S0905,Mouse44,KO,Spleen,Il2,23.66,2,2026-03-11,False
+S0731,Mouse35,KO,Lymph Node,Tnfa,22.41,2,2026-03-30,False
+S0555,Mouse27,WT,Spleen,Foxp3,26.2,3,2026-04-14,False
+S0367 ,Mouse18,KO,Spleen,Cd4,19.91,1,2026-04-19,False
+s0346,Mouse17,WT,Spleen,Cd4,20.46,1,2026-10-03,False
+S1609,Mouse77,KO,Lymph Node,Cd8a,20.73,1,2026-03-14,False
+S0536,Mouse26,WT,Lymph Node,Cd4,20.15,2,2026-05-04,False
+S1423,Mouse68,HET,Thymus,Tnfa,23.49,1,2026-04-20,False
+S1210 ,Mouse58,HET,Thymus,Cd8a,20.88,1,2026-04-19,False
+S1373,Mouse66,KO,Thymus,Foxp3,29.23,2,2026-04-01,False
+S1640,Mouse79,WT,Thymus,Il2,24.13,2,2026-03-23,False
+S_920,Mouse44,KO,Spleen,Tnfa,22.94,2,2026-11-03,False
+S0212,Mouse11,KO,Lymph Node,Il2,27.55,2,2026-04-17,False
+S1604,Mouse77,KO,Lymph Node,Foxp3,28.64,2,2026-03-14,False
+S0503,Mouse24,WT,Thymus,Gapdh,17.0,2,2026-04-29,False
+S0538,Mouse26,WT,Lymph Node,Cd8a,20.75,1,2026-04-05,False
+S_1221,Mouse59,WT,Thymus,Il2,22.8,3,2026-03-24,False
+S0176,Mouse9,KO,Spleen,Foxp3,26.59,2,2026-04-18,False
